@@ -5,7 +5,7 @@
 # Output: id[tab]antwoord[tab]antwoord[...]
 
 # Jasper de Boer - s1889966
-# Joel Koster - 
+# Joel Coster - 
 # Hans Rudolf Woldring -
 
 import socket
@@ -30,7 +30,7 @@ def alpino_parse(sent, host='zardoz.service.rug.nl', port=42424):
 
 for line in sys.stdin:
 
-    # hoe veel, eerste, laatste etc.
+    # hoe veel
     mod = []
 
     # wat we zoeken: eigenschap, lid etc
@@ -55,55 +55,95 @@ for line in sys.stdin:
             node = xml.xpath('//node[@rel="whd" and @lemma]')
             if node:
                 for child in node:
-                    #print("Deze zin begint met: "+ child.attrib["lemma"])
                     print("",end="")
+
+                    if child.attrib["lemma"] == "wanneer":
+                        
+                        mod.append("wanneer")
+                        
+                        node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@lemma]')
+                        if node:
+                            for child in node:
+                                y.append(((child.attrib["lemma"],child.attrib["frame"]),child.attrib["frame"]))
+
+                        else:
+                            node = xml.xpath('//node[@rel="body"]/node[@rel="su" and @lemma]')
+                            if node:
+                                for child in node:
+                                    y.append((child.attrib["lemma"],child.attrib["frame"]))
+
+                        node = xml.xpath('//node[@rel="hd" and @lemma]')
+                        if node:
+                            for child in node:
+                                x.append((child.attrib["lemma"],child.attrib["frame"]))
 
                 node = xml.xpath('//node[@cat="np" and @rel="su"]/node[@lemma]')
                 if node:
                     for child in node:
-                        x.append(child.attrib["lemma"])
+                        x.append((child.attrib["lemma"],child.attrib["frame"]))
 
                     node = xml.xpath('//node[@cat="mwu" and @rel="obj1"]/node[@lemma]')
                     if node:
                         for child in node:
-                            y.append(child.attrib["lemma"])
+                            y.append((child.attrib["lemma"],child.attrib["frame"]))
 
                     else:
                         node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@rel="mod"]/node[@rel="obj1" and @lemma]')
                         if node:
                             for child in node:
-                                y.append(child.attrib["lemma"])
+                                y.append((child.attrib["lemma"],child.attrib["frame"]))
                         else:
-                            node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@rel="mod"]/node[@rel="obj1"]/node[@lemma]')
+                            node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@rel="mod"]/node[@rel="obj1"]/node[@rel="app"]/node[@lemma]')
                             if node:
                                 for child in node:
-                                    y.append(child.attrib["lemma"])
+                                    y.append((child.attrib["lemma"],child.attrib["frame"]))
+
+                            else:
+                                node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@rel="mod"]/node[@rel="obj1"]/node[@lemma]')
+                                if node:
+                                    for child in node:
+                                        y.append((child.attrib["lemma"],child.attrib["frame"]))
     
             else:
                 node = xml.xpath('//node[@cat="np" and @rel="whd"]/node[@cat="ap"]/node[@lemma]')
                 if node:
                     
                     for child in node:
-                        mod.append(child.attrib["lemma"])
+                        mod.append((child.attrib["lemma"],child.attrib["frame"]))
 
                     node = xml.xpath('//node[@cat="np" and @rel="whd"]/node[@rel="hd"]')
                     if node:
                         for child in node:
-                            x.append(child.attrib["lemma"])
+                            x.append((child.attrib["lemma"],child.attrib["frame"]))
 
                         node = xml.xpath('//node[@rel="body"]/node[@rel="su" and @lemma]')
                         if node:
                             for child in node:
-                                y.append(child.attrib["lemma"])
+                                y.append((child.attrib["lemma"],child.attrib["frame"]))
 
                         else:
                             node = xml.xpath('//node[@rel="body"]/node[@rel="obj1"]/node[@lemma]')
-                            for child in node:
-                                y.append(child.attrib["lemma"])
+                            if node:
+                                for child in node:
+                                    y.append((child.attrib["lemma"],child.attrib["frame"]))
 
                 else:
-                    print("Andere variatie toevoegen")
-          
+                    node = xml.xpath('//node[@rel="hd" and @lemma]')
+                    if node:
+                        for child in node:
+                            x.append((child.attrib["lemma"],child.attrib["frame"]))
+
+                        node = xml.xpath('//node[@rel="su"]/node[@lemma]')
+                        if node:
+                            for child in node:
+                                y.append((child.attrib["lemma"],child.attrib["frame"]))
+                                
+                        else:
+                            node = xml.xpath('//node[@rel="su" and @lemma]')
+                            if node:
+                                for child in node:
+                                    y.append((child.attrib["lemma"],child.attrib["frame"]))
+                            
         else:
             print("Dit is een andere vraagzin")
         

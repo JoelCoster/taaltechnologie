@@ -1,0 +1,232 @@
+1	Bij welk platenlabel zit John Mayer?
+2	dbtune Wat is de website van The Beatles?
+3	In welke bands speelde Tim Knol?
+4	In welk jaar begon Imagine Dragons?
+5	In welk jaar bracht Marco Borsato de single Rood uit?
+6	In welk jaar verliet Ryan Dusick Maroon 5?
+7	Op welk album van de band Coldplay staat The Scientist?
+8	Question: Wat is de hele naam van Elvis?
+9	Uit hoeveel leden bestaat U2?
+10	Voor welke films maakte Ry Cooder de muziek?
+11	Voor welk label werkte Johnny Cash?
+12	Waar ligt de oorsprong van 30 Seconds To Mars?
+13	Waar was de oprichting van Queen?
+14	Wanneer overleed Michael Jackson?
+15	Wat is de abstract van Linkin Park?
+16	Wat is de artiest van If I never see your face again?
+17	Wat is de band van Ilse DeLange?
+18	Wat is de band van John Lennon?
+19	Wat is de bezetting van The Beatles?
+20	Wat is de bezigheid van Marco Borsato?
+21	Wat is de bijnaam van Amy Winehouse
+22	wat is de bijnaam van Bono?
+23	Wat is de bijnaam van Elvis?
+24	Wat is de bijnaam van Lenny Kravitz?
+25	Wat is de bijnaam van Madonna
+26	Wat is de bijnaam van Steve Cropper?
+27	Wat is de bijnaam van Usher?
+28	Wat is de duur/lengte van Child in Time?
+29	Wat is de duur van 'We are the champions'?
+30	Wat is de echte naam van Eminem?
+31	Wat is de echte naam van Ringo Starr?
+32	Wat is de echte/volledige naam van Fink?
+33	Wat is de geboortedag van Justin Bieber?
+34	Wat is de geboortedatum van Anouk?
+35	Wat is de geboortedatum van Bach?
+36	Wat is de geboortedatum van Bob Dylan?
+37	Wat is de geboortedatum van Chris Martin?
+38	Wat is de geboortedatum van Elvis?
+39	Wat is de geboortedatum van Enrique Iglesias
+40	Wat is de geboortedatum van Freddie Mercury?
+41	Wat is de geboortedatum van Herman Brood?
+42	Wat is de geboortedatum van Jan Smit?
+43	Wat is de geboortedatum van Jimi Hendrix?
+44	Wat is de geboortedatum van John Mayer?
+45	Wat is de geboortedatum van Justin Timberlake?
+46	Wat is de geboortedatum van Loud Reed?
+47	Wat is de geboortedatum van Maria Mena?
+48	Wat is de geboortedatum van Otis Redding?
+49	Wat is de geboortedatum van Pharrell Williams?
+50	Wat is de geboorteplaats van Katy Perry?
+51	Wat is de geloofsovertuiging van Mozart?
+52	Wat is de genre van The Kooks?
+53	Wat is de herkomstplaats van The Beatles?
+54	Wat is de herkomst van The Kooks?
+55	Wat is de lengte van Sweet Goodbyes?
+56	Wat is de muziekstijl van Bach?
+57	Wat is de naam van Bono?
+58	Wat is de naam van Bono?
+59	Wat is de naam van de zangeres die k3 verliet?
+60	Wat is de naam van van Beethov?
+61	Wat is de officiele website van One Direction?
+62	Wat is de oorsprong van Coldplay?
+63	Wat is de oorsprong van de 'Dire Straits'
+64	Wat is de oorsprong van The Beatles?
+65	Wat is de oorsprong van The Beatles?
+66	Wat is de oorsprong van The Foo Fighters?
+67	Wat is de oorsprong van The Who?
+68	Wat is de oorsprong van Toto?
+69	Wat is de oorzaak van de dood van John Lennon?
+70	Wat is de oprichtingsdatum van Queen?
+71	Wat is de platenmaatschappij van Guus Meeuwis
+72	Wat is de platenmaatschappij van John Mayer?
+73	Wat is de releasedatum van Dat ik je mis?
+74	Wat is de religie van Bono?
+75	Wat is de religie van Mozart?
+76	Wat is de startdatum van The Beatles?
+77	Wat is de sterfdag van Freddy Mercury?
+78	Wat is de sterfdatum van Amy Winehouse?
+79	Wat is de sterfdatum van Frank Sinatra?
+80	Wat is de sterfdatum van Freddie Mercury?
+81	Wat is de sterfdatum van Herman Brood?
+82	Wat is de sterfdatum van Jeff Buckley?
+83	Wat is de sterfdatum van Kurt Cobain?
+84	Wat is de stijl van Coldplay
+85	Wat is de url van The Stones?
+86	Wat is de volledige naam van Avril Lavigne?
+87	Wat is de volledige naam van Avril Lavigne?
+88	Wat is de volledige naam van Dotan?
+89	Wat is de volledige naam van Guus Meeuwis?
+90	Wat is de volledige naam van Guy Berryman?
+91	Wat is de volledige naam van Jan Smit?
+92	Wat is de volledige naam van John Fogerty?
+93	Wat is de volledige naam van Paul McCartney
+94	Wat is de webite van The Beatles?
+95	Wat is de website van 30 Seconds To Mars?
+96	Wat is de website van Coldplay?
+97	Wat is de website van David Bowie ?
+98	Wat is de website van de Red Hot Chili Peppers?
+99	Wat is de website van Fall Out Boy?
+100	Wat is de website van Justin Bieber?
+101	Wat is de website van Miley Cyrus
+102	Wat is de website van Nick en Simon?
+103	Wat is de website van Stromae?
+104	Wat is een instrument van Jimmy Hendrix?
+105	Wat is een samenvatting over The Black Keys?
+106	Wat is het beginjaar van Adele
+107	Wat is het beginjaar van Muse?
+108	Wat is het beginjaar van Norah Jones?
+109	Wat is het beroep van Avril Lavigne?
+110	Wat is het beroep van Bono?
+111	Wat is het beroep van Bono?
+112	Wat is het beroep van Justin Timberlake?
+113	Wat is het beroep van Nicki Minaj?
+114	Wat is het beroep van Roger Waters?
+115	Wat is het budget van The Million Dollar Hotel?
+116	Wat is het debuutalbum van Boudewijn de Groot?
+117	Wat is het geboortejaar van John Lennon?
+118	wat is het geloof van Bono?
+119	Wat is het geloof van Bono?
+120	Wat is het geloof van Bono?
+121	Wat is het genre van Alanis Morissette?
+122	Wat is het genre van Amy Winehouse?
+123	Wat is het genre van Bob Marley?
+124	Wat is het genre van Chuck Berry?
+125	Wat is het genre van Joan Baez?
+126	Wat is het genre van Marco Borsato?
+127	Wat is het genre van 'Paloma Blanca'?
+128	Wat is het genre van Ringo Starr?
+129	Wat is het genre van Taylor Swift?
+130	Wat is het genre van The Red Hot Chilli Peppers?
+131	Wat is het genre van The Rolling Stones?
+132	Wat is het genre van Tom Waits?
+133	Wat is het genre van U2?
+134	Wat is het instrument van Keith Moon?
+135	Wat is het instrument van Phil Collins?
+136	Wat is het instrument van Ringo Starr?
+137	Wat is het instrument van Wibi Soerjadi?
+138	Wat is het invoerjaar van het Wilhelmus?
+139	Wat is het label van Chris Martin?
+140	Wat is het label van Ed Sheeran?
+141	Wat is het label van Opgezwolle?
+142	Wat is het label van Steve Lukather?
+143	Wat is het label van The Black Keys?
+144	Wat is het land van Johnny Cash?
+145	Wat is het land van oorsprong van The Beatles?
+146	Wat is het langste album van Pink Floyd?
+147	Wat is het platenlabel van Chris Brown?
+148	Wat is het platenlabel van Maroon 5?
+149	Wat is het startjaar van De Dijk (band)?
+150	Wat is het startjaar van Rammstein?
+151	Wat is het sterfjaar van Herman Brood?
+152	Wat is het vak van Janine Jansen?
+153	Wat was de bijnaam van Amy Winehouse?
+154	Wat was de bijnaam van Amy Winehouse?
+155	Wat was de bijnaam van Britney Spears?
+156	Wat was het album van Clocks?
+157	Wat zijn de albums van Creedence Clearwater Revival?
+158	Wat zijn de albums van Linkin Park?
+159	Wat zijn de albums van U2?
+160	Wat zijn de beroepen van Brian May?
+161	Wat zijn de bijnamen van Michael Jackson?
+162	Wat zijn de functies van Coldplay
+163	Wat zijn de genres van Andre Hazes?
+164	Wat zijn de genres van Linkin Park?
+165	Wat zijn de genres van Pink Floyd?
+166	Wat zijn de instrumenten van Adele
+167	Wat zijn de instrumenten van Avril Lavigne?
+168	Wat zijn de instrumenten van Avril Lavigne?
+169	Wat zijn de instrumenten van Billy Joel?
+170	Wat zijn de instrumenten van Bono?
+171	Wat zijn de instrumenten van Paul McCartney?
+172	Wat zijn de instrumenten van Yann Tiersen?
+173	Wat zijn de leden van Maroon 5?
+174	Wat zijn de liedjes van Queen
+175	Wat zijn de muziekinstrumenten van Justin Timberlake?
+176	Wat zijn de muziekstijlen van John Coltrane?
+177	Wat zijn de namen van Guus Meeuwis
+178	Wat zijn de platenmaatschappijen van de David Guetta?
+179	Wat zijn de platenmaatschappijen van U2?
+180	Wat zijn de rollen van The Rolling Stones?
+181	Wat zijn de roots van de Who?
+182	Wat zijn de voormalige leden van Metallica
+183	Welk bandlid van Maroon 5 speelt in de film Begin Again?
+184	Welke albums zijn van Amon Tobin?
+185	Welke artisten brachten samen het nummer Rampeneren uit?
+186	Welke genres worden toegeschreven aan de muziek van Muse?
+187	Welke instrumenten bespeelt Avril Lavigne?
+188	Welke instrumenten speelt Ringo Starr?
+189	Welk genre speelde Johnny Cash?
+190	'Wie is beinvloed door Jimmy Hendriks?
+191	Wie is de artiest van Hocus Pocus (lied)?
+192	Wie is de artiest van Nevermind?
+193	Wie is de artiest van Stairway to Heaven?
+194	Wie is de artiest van The Wall?
+195	Wie is de manager van Queen?
+196	Wie is de manager van U2?
+197	Wie is de partner van Johnny Cash?
+198	Wie is de producer van Escapology?
+199	Wie is de schrijver van The Scientist?
+200	Wie is de zanger van It Was a Very Good Year?
+201	Wie is het record label van Deep Purple?
+202	Wie maakte het album El Camino?
+203	Wie waren de bandleden van The Rolling Stones?
+204	Wie waren de bandleden van U2?
+205	Wie was de band van I want it all?
+206	Wie was de schrijver van Smooth Criminal?
+207	Wie was de vrouw van Johnny Cash
+208	Wie zijn de bandleden van Coldplay?
+209	Wie zijn de bandleden van Coldplay?
+210	Wie zijn de groepsleden van de Eagles?
+211	Wie zijn de kinderen van Rudi Carrell?
+212	Wie zijn de leden van Coldplay
+213	Wie zijn de leden van Coldplay?
+214	Wie zijn de leden van Counting Crows?
+215	Wie zijn de leden van de Eagles?
+216	Wie zijn de leden van Fleetwood Mac?
+217	Wie zijn de leden van Green Day?
+218	Wie zijn de leden van K3?
+219	Wie zijn de leden van Orbital?
+220	Wie zijn de leden van The Beatles?
+221	Wie zijn de leden van The Beatles?
+222	Wie zijn de leden van The Beatles?
+223	Wie zijn de leden van 'The Golden Earring'?
+224	Wie zijn de oudleden van Metallica?
+225	Wie zijn de sukkels van The Who?
+226	Wie zijn de voormalige bandleden van The Beatles?
+227	Wie zijn de voormalige leden van BZN?
+228	Wie zijn lid geweest van Queen?
+229	Wie zijn lid van de band Queen?
+230	Wie zijn lid van de Rolling Stones?
+231	Wie zijn lid van The Black Eyed Peas?
+232	Wie zijn oudleden van Genesis?
