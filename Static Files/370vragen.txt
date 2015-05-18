@@ -1,0 +1,370 @@
+1	Wat is de echte naam van Jett Rebel?
+2	Vanaf welk jaar is Alabama Shakes actief?
+3	Wanneer is Jack White geboren?
+4	Tot welke genres wordt Major Lazer gerekend?
+5	Noem de leden van Muse
+6	Welke singles heeft OneRepublic uitgebracht?
+7	Hoe veel nummers heeft Michael Jackson geschreven?
+8	Wat is het kortste nummer van Ed Sheeran?
+9	Noem de albums van Franz Ferdinand.
+10	Hoeveel singles heeft Ellie Goulding uitgebracht?
+11	Wie is de publisher van Justin Bieber?
+12	Welk instrument bespeelt Keith Moon?
+13	Welke nummers heeft Taylor Swift geschreven?
+14	Op welke datum is Michael Jackson geboren?
+15	Op welke datum is Michael Jackson geboren?
+16	Wie is de artiest van het album The Wall?
+17	Welk Instrument bespeelt Roger Waters?
+18	Hoeveel genres speelde Yoko Ono?
+19	Van wie is het nummer Billie Jean?
+20	Wie componeerde Ode to Joy?
+21	Wie is de producer van 808s & Heartbreak?
+22	Welke artiesten hebben getekend bij het label Roc-A-Fella Records?
+23	Hoe lang duurt het album Love Lockdown in totaal?
+24	Wat is de eerste film waarin Nicki Minaj heeft gespeeld?
+25	Wat is de echte naam van Jay Z?
+26	Op welke websites kan ik meer informatie vinden over Jay Z?
+27	In welke band speelt Dave Farrell?
+28	Wie is de bassist van Linkin Park?
+29	Hoe heet het laatste album van Kanye West?
+30	Wie werkten er samen voor het nummer Gold Digger?
+31	Welke instrumenten bespeelt Douwe Bob?
+32	Welke albums hebben de Foo Fighters uitgebracht?
+33	Hoe veel albums en EPs heeft Dire Straits uitgebracht?
+34	In welk jaar is de Dijk opgericht?
+35	Wie spelen er momenteel allemaal in Metallica?
+36	Onder welke labels is er muziek van Queen uitgebracht?
+37	Wat is de echte naam van Fink?
+38	Waar komen de leden van Green Day vandaan?
+39	Welk album van Boudewijn de Groot is het vaakst uitgebracht?
+40	Wielke singles heeft Mumford & Sons voor 2011 uitgebracht?
+41	Wanneer overleed zanger Ray Charles?
+42	Hoe heet het muzieklabel van DJ Laidback Luke?
+43	Wie waren de leden van de rapformatie Opgezwolle?
+44	Hoe heet het eerste studioalbum van de popgroep Doe Maar?
+45	In welk jaar trad de punkgroep Sex Pistols voor het eerst op?
+46	Uit hoeveel ex-leden bestaat de rockband Dire Straits?
+47	Bij welke platenmaatschappijen bracht zanger Seal muziek uit?
+48	Hoeveel instrumenten kan de bassist van de rockband The Strokes, Nikolai Fraiture, bespelen?
+49	Hoe heet de tweede single die DJ Madeon uitbracht?
+50	Hoeveel volumes van de compilatie-CD Vergeten Pareltjes werden er uitgebracht?
+51	Wat waren de bandleden van Nirvana
+52	Wanneer overleed Kurt Cobain?
+53	Wat is de volledige naam van DJ Hardwell?
+54	Wat was de bijnaam van Amy Winehouse?
+55	Van welke bekende band is Bono de zanger?
+56	Van welk genre in Hans Zimmer bekend?
+57	Wanneer overleed Herman Brood?
+58	In welk land wordt Rock Werchter georganiseerd?
+59	In welk jaar werd het eerste album van Muse uitgebracht?
+60	Hoeveel albums bracht de band Radiohead uit?
+61	Wat is de gehele naam van Boudewijn de Groot?
+62	Wat is de bijnaam van Elvis Presley?
+63	Welk genre muziek maakt Paul Elstak?
+64	Welk liedje heeft Armin van Buuren geschreven?
+65	Waar is Afrojack geboren?
+66	Op welke dag is Michael Jackson overleden?
+67	Welke artiest heeft als volledige naam Lesane Parish Crooks?
+68	Wie zijn de kinderen van Rudi Carrell?
+69	Welke groep heeft het nummer Wonderwall uitgebracht?
+70	Noem twee albums van de Engelse band Busted?
+71	Wie waren voormalig lid van de Beatles?
+72	Wat is de volledige naam van Jimi Hendrix?
+73	Onder welk(e) genre(s) valt de muziek van Jimi Hendrix?
+74	Hoe oud is Jimi Hendrix geworden?
+75	Onder welke stijl valt de muziek van Bach?
+76	Wat is het jaar waarin Bach is overleden?
+77	Aan wie zijn de Brandenburgse Concerten opgedragen?
+78	Welke band heeft het album El Camino geschreven?
+79	Wie waren de oprichters van de band Chic?
+80	Van welke bands is Peter Green lid geweest?
+81	Wat was de bijnaam van Johnny Cash?
+82	Waar komt de band Muse oorspronkelijk vandaan?
+83	Het werk van welke artiest is beïnvloed door Queen?
+84	Voor welke films heeft Ludovico Einaudi muziek geschreven?
+85	Met welke platenmaatschappijen heeft John Mayer een contract?
+86	Hoe heten de albums van Mumford & Sons
+87	Wat is de echte naam van Stromae?
+88	Hoe wordt Eric Clapton ook wel genoemd?
+89	Wie zijn de leden van Racoon?
+90	Wanneer is de band Fleetwood Mac opgericht?
+91	Waar komen de Beatles vandaan?
+92	Wie zijn de bandleden van de Rolling Stones?
+93	Wat voor instrument bespeelt Ludovico Einaudi?
+94	Wanneer is Yann Tiersen geboren?
+95	Tot wat voor groep instrumenten kan een Cello geclassificeerd worden?
+96	Van wie is het album The Dark Side of the Moon?
+97	Welk radiostation presenteert de Top 2000?
+98	Wat is de volledige naam van Thomas Berge?
+99	Welke single van Coldplay is het vaakst gereleased?
+100	Met wie zong Monteserrat Caballé het nummer Barcelona?
+101	Wat was de volledige naam van Jay-Z?
+102	Hoe oud is Lou Reed geworden?
+103	Wie heeft London Calling geschreven?
+104	Sinds wanneer is Spinvis Actief?
+105	Hoeveel (studio) albums heeft Arcade Fire uitgebracht?
+106	Hoe heet het debuutalbum van Amon Tobin alias Cujo?
+107	Wie is de vocalist van Motorhead?
+108	Op welk album van Bob Dylan staat 'Desolation Row'?
+109	Welk studio album bracht Sonic Youth uit in 1988
+110	Wanneer heeft St. Vincent haar laatste (studio) album uitgebracht
+111	Welke instrumenten bespeelt Avril Lavigne?
+112	Wat is de officiële website van One Direction?
+113	Wat is de naam van de zangeres die k3 verliet?
+114	In welk jaar verliet Ryan Dusick Maroon 5?
+115	Op welk album van de band Coldplay staat The Scientist?
+116	Uit hoeveel leden bestaat U2?
+117	Welk bandlid van Maroon 5 speelt in de film Begin Again?
+118	In welk jaar bracht Marco Borsato de single Rood uit
+119	Welke artisten brachten samen het nummer Rampeneren uit?
+120	Wat was de eerste single die Justin Bieber uitbracht?
+121	Wanneer is Michael Jackson geboren?
+122	In welk land vindt de band Coldplay zijn oorsprong?
+123	Wat was de bijnaam van Elvis Presley?
+124	Met wie trouwde Mariah Carey?
+125	Welke personen zaten in de band The Jackson 5?
+126	Met welk album werd Amy Winehouse bekend in het Verenigd Koninkrijk?
+127	Wat is de doodsoorzaak van Kurt Cobain?
+128	Welke bijnamen had Whitney Houston?
+129	In welk jaar bracht Michael Bublé zijn eerste album uit?
+130	Wat is de echte naam van Eminem?
+131	Hoeveel leden van The Beatles leven nog?
+132	Wat was Queens eerste album?
+133	Hoeveel jaren is Creedence Clearwater Revival actief geweest?
+134	Wanneeer was het laatste optreden van Doe Maar?
+135	Wat is de lengte van Child in Time van Deep Purple?
+136	Wie waren de leden van Pink Floyd?
+137	Waar komt Coldplay orgineel vandaan?
+138	Wat voor Genres muziek maakt Pharrell Williams?
+139	Hoeveel albums heeft Supertramp uitgebracht?
+140	Wie zong het nummer "Het Dorp"?
+141	Wie zijn de leden van de Red Hot Chili Peppers?
+142	Wanneer overleed Elvis Presley?
+143	Wat zijn de bijnamen van Elvis Presley?
+144	Wanneer is Michael Jackson geboren?
+145	In welke bands heeft John Frusciante gespeeld?
+146	In welke stad zijn The White Stripes opgericht?
+147	Wat is de volledige naam van Guus Meeuwis?
+148	In welk jaar begon Marco Borsato zijn muziekcarrière?
+149	Wat is het eerste album van Coldplay?
+150	Wat is de eerste single van Muse?
+151	Bij welke recordlabels zit Dream Theater?
+152	Wie brachten Into the Electric Castle uit?
+153	In welke bands zit Floor Jansen?
+154	Welke acts zijn verwant aan Iron Maiden?
+155	Wat is het genre en de artiest(en) van Lunatic Soul?
+156	Wat zijn de vervolgen van Lunatic Soul?
+157	Waar origineerde Mastodon?
+158	Wat voor groep is The Flaming Lips?
+159	Wie schreef de tekst van Holy Diver?
+160	Hoeveel albums heeft Tool uitgegeven?
+161	Uit hoeveel muziekanten bestaat de band Doe Maar?
+162	Welke muziWekinstrumenten bespeelde Beethoven?
+163	Wat is de geboortedatum van Britney Spears?
+164	Welke muziekstijl is kenmerkend voor Louis Armstrong?
+165	In welke band zat Phil Collins?
+166	Wat is het beroep van Janine Jansen?
+167	In welk land is Brian Littrel geboren?
+168	In welk jaar werd Justin Bieber actief?
+169	In welk jaar heeft Robbie Williams zijn eerste album uitgebracht?
+170	Hoeveel werken produceerde Mozart in 1984?
+171	Wanneer is Robbie Williams geboren?
+172	Uit welke stad komt de Golden Earring
+173	In welk jaar is Muse opgericht?
+174	In welk genre zingt Marco Borsato
+175	Hebben de Counting Crows een zanger
+176	Wanneer is Michael Jackson overleden
+177	Wat is de bijnaam van Lenny Kravitz
+178	In welke band speelt Ilse DeLange?
+179	Hoe heet het eerste album van Bob Dylan?
+180	Wanneer zijn The Beatles gestopt?
+181	Welk instrument bespeelt een bassist?
+182	Wie is producer van het album Escapology?
+183	Uit welke leden bestaat The Beatles?
+184	Wat is het land van oorsprong van The Beatles?
+185	Wie is de zanger van "it Was a Very Good Year"?
+186	Op welke datum stierf Frank Sinatra?
+187	Welke instrumenten bespeelt Avril Lavigne?
+188	Wat is het genre van de muziek van Alanis Morissette?
+189	Wanneer zijn The Beatles opgericht?
+190	Wat bespeelde Dick Tailor in "The Rolling Stones"?
+191	Wie componeerden de soundtrack van het spel Rayman Legends?
+192	Op welke leeftijd stierf de Russische zanger die "I am very glad, because I'm finally returning back home" zong?
+193	Wat is het laatste muziekstuk van Bach?
+194	Wie zijn de huidige leden van normaal?
+195	In welk jaar is het huidige Nederlandse volkslied ingevoerd?
+196	Welke instrumenten werden er voornamelijk in Barokmuziek gebruikt?
+197	Wanneer is Mozart geboren en gestorven?
+198	Welke muziekprijs werd in 1962 ingesteld?
+199	Voor hoeveel films heeft John Williams tot nu toe de muziek geschreven?
+200	Waarvoor is de zesde symfonie van Gade geschreven?
+201	Wanneer is Ringo Starr jarig?
+202	Hoe lang bestonden de Beatles?
+203	Wat waren de platenmaatschappijen waarvoor Coldplay heeft gepubliceerd?
+204	Wat zijn de genres van Leonard Cohen?
+205	Wat zijn de genres van Leonard Cohen?
+206	Waar speelden de Beatles voor het eerst?
+207	Waar is Herman Brood overleden?
+208	Welk album van Coldplay ontving meerdere muziekprijzen?
+209	Voor welke artiesten schreef Lennaert Nijgh liedjes?
+210	Welke Nederlandse artiesten hebben zelfmoord gepleegd?
+211	Waar is Beyonce geboren?
+212	Wat is de geboortedatum van Elvis Presley?
+213	Wat zijn de namen van de vijf leden van One Diretion?
+214	Waar komt de band Pink Floyd vandaan?
+215	Wat is de geboortedatum van Madonna?
+216	Wat is de geboortenaam van Madonna?
+217	Wat is het genre van de band Nirvana?
+218	Wat is de geboorteplaats van Guus Meeuwis?
+219	Welke albums heeft Kayne West uitgebracht voor 2007?
+220	Wie zijn de schrijvers van het nummer 'I want it that way' van de Backstreet Boys?
+221	Wat is de titel van de eerste single van The Eagles?
+222	Welk genre muziek maakte Joan Baez?
+223	Welke Nederlandse band had in 1971 een hit met het nummer ‘Hocus Pocus’?
+224	Welk instrument bespeelt Wibi Soerjadi?
+225	Wat is de volledige naam van de artiest Dory Previn?
+226	Wie schreef het nummer ‘De Verdronken Vlinder’, een hit uit 1970?
+227	Uit welk land kwam The Who?
+228	Wat is het beroep van Janine Jansen?
+229	Welke LP bracht 'The Academy of Saint Martin in the Field' uit in 1973?
+230	Wie schreef de hit ‘Behind Blue Eyes’?
+231	Wat voor soort muziek maakte George Michael?
+232	In wat voor band speelde George Michal?
+233	Wat zijn de leden van de band The Beatles?
+234	Welke albums maakten The Beatles?
+235	Wat voor soort muziek maakt Jan Smit?
+236	Wat is Jan Smit zijn volledige naam?
+237	Wat zijn de uitgevers van Jan Smit?
+238	Welke single maakte Nielson samen met Miss Montreal?
+239	Wanneer is het album Cool Kids van Echosmith gereleased?
+240	Hoeveel nummers stonden er op de CD Motion van Calvin Harris?
+241	Welke bands zijn gerelateerd aan Linkin Park?
+242	Wie zijn de leden van Coldplay?
+243	Wat is de website van 30 Seconds To Mars?
+244	Wat voor genre is Imagine Dragons?
+245	Uit welk land komt Architects?
+246	Uit welke stad komt Mumford And Sons?
+247	Wat is Foals in het Japans?
+248	Wanneer begon Every Time I Die?
+249	Wat is het laatste album van While She Sleeps?
+250	Hoe heet het laatste nummer dat RONDE uitbracht?
+251	Wat is de geboortedatum van John Mayer?
+252	In welk jaar is de band Imagine Dragons opgericht?
+253	Wie zijn de huidige bandleden van The Eagles?
+254	Van welke band is het nummer Hey Jude?
+255	Uit welke stad komt de band The Script?
+256	Wanneer is Johnny Cash overleden?
+257	Welk genre speelde Johnny Cash?
+258	In welk jaar bracht John Mayer het album Born and Raised uit?
+259	Wie is de zanger van het nummer Thinking Out Loud?
+260	Van welke band is Dan Reynolds de zanger?
+261	Wat is de geboortedatum van Enrique Iglesias?
+262	In welk dorpje is Guus Meeuwis geboren?
+263	Hoe heten de bandleden van Green Day?
+264	Hoe luidt de bijnaam van Rihanna?
+265	Uit welke Amerikaanse Staat komt Britney Spears?
+266	Sinds welk jaar zijn de Backstreet Boys actief?
+267	Op welke datum overleed John Denver?
+268	In welke stad is Mariah Carey geboren?
+269	Met welke artieste werkte Kelly Clarkson samen in A Moment Like This?
+270	Wat is de volledige naam van Adele?
+271	Hoe heet het eerste album van ABBA?
+272	Welk lid van de Bee Gees is nog in leven?
+273	Tot welk genre behoort de muziek van Taylor Swift?
+274	Wat is de volledige naam van Guus Meeuwis?
+275	Wanneer is het nummer Mrs. Rbbinson van Paul Simon en Art Garfunkel opgenomen?
+276	Welke mannen hebben The Beach Boys opgericht?
+277	Welke zangeres heeft haar artiestennaam te danken aan een nummer van Queen?
+278	Uit welk land komt Justin Bieber?
+279	Hoe heet de eerste single van P!nk?
+280	In welk jaar kwam het album Master of Puppets uit van Metallica?
+281	In welk jaar werd Green Day opgericht?
+282	Bij welk label zit Linkin Park?
+283	Uit welk land komt Fall Out Boy?
+284	Wat is de geboortedatum van Avril Lavigne?
+285	Wie is de artiest van het album Paper Walls?
+286	Hoeveel leden heeft Sum 41?
+287	Van welke albums schreef Billie Joe Armstrong alle teksten?
+288	Wat is de speelduur van Last of The American Girls?
+289	Welke albums bracht Good Charlotte uit?
+290	Uit hoeveel leden bestond Paramore oorspronkelijk?
+291	Wanneer is Jan Smit geboren?
+292	Wat is de echte naam van Martin Garrix?
+293	Tot welk genre behoort de muziek van Robbie Williams?
+294	Wanneer is het platenlabel Spinnin' Records opgericht?
+295	Wat is de bijnaam van Michael Jackson?
+296	Wie zijn de leden van de Backstreet Boys?
+297	Wanneer is het nummer Bloed, zweet en tranen uitgebracht?
+298	In welke band speelt Gerard Joling?
+299	Wat was de eerste single van Avicii?
+300	In welk jaar verscheen het album A Night at the Opera van Queen?
+301	Uit hoeveel leden bestond The Beatles?
+302	In welk jaar zijn The Beatles opgericht?
+303	Wat is de geboortedatum van Beethoven?
+304	Welke instrumenten bespeelde Beethoven?
+305	Wanneer overleed Micheal Jackson?
+306	Wat is Beyonc%C3%A9 haar volledige naam?
+307	In welke band zat Beyonc%C3%A9?
+308	Wie zaten er in Pink Floyd?
+309	Wanneer kwam het album "Zonder jou" van Jan Smit uit?
+310	Wanneer kwam het album "Sticky Fingers" van The Rolling Stones uit?
+311	Wanneer werd de band Oasis actief?
+312	Binnen welke genres valt de muziek van Arcade Fire?
+313	Hoe ziet de bezetting van The Wombats eruit?
+314	Waar komen de Arctic Monkeys vandaan?
+315	Bij hoeveel platenmaatschappijen zijn Kaiser Chiefs aangesloten geweest?
+316	Wie zijn de voormalige leden van BZN?
+317	Wat is de echte naam van Ellie Goulding?
+318	Welke albums heeft Toto gemaakt?
+319	Met wie heeft Rihanna samengewerkt tijdens haar carrière?
+320	Op welke formaten is de muziek van The Police uitgebracht?
+321	Wanneer begon Marco Borsato zijn cariere?
+322	Wat voor genre muziek produceert Angerfist
+323	Wat is een alternatieve naam voor de band one direction?
+324	Wat is de site van Rick Astley?
+325	In welk jaar ging de band *NSYNC uit elkaar?
+326	Hoe heet de enige single van de lama's?
+327	Wat is de volledige naam van de zangeres Inna?
+328	Wat is de bijnaam van de Hollandse zanger Frans Duijts?
+329	Hoe oud is de fransman Anthony Favier, die onder een andere naam muziek produceert?
+330	Wat is het eerste album van Snoop Dogg?
+331	Onder welk genre valt de muziek van Erik van der Hoff?
+332	Welke singles heeft Avicii geschreven?
+333	Wie is de producent van de single Hey Brother?
+334	Welk genre speelt Coldplay?
+335	Sinds welk jaar is Coldplay actief?
+336	Welke muzikant is door Coldplay geïnspireerd?
+337	Wat is de zangstem van Mads Langer?
+338	Wanneer is Chris Martin geboren?
+339	Hoeveel tracks staan er op het album Perfect Animal?
+340	In welke Nederlandse plaats is Tiësto geboren?
+341	Hoe heet de gitarist van Queen?
+342	In welk jaar gingen de Spice Girls uit elkaar?
+343	Hoe lang duurt het nummer 'Bohemian Rhapsody'?
+344	Uit hoeveel leden bestaat ABBA?
+345	Hoe oud is André Hazes geworden?
+346	Welke instrumenten bespeelde Billy Joel?
+347	Wie zijn de bandleden van Coldplay?
+348	In welke genres vallen de nummers van One Direction?
+349	Met welk liedje brak Taylor Swift door in Nederland?
+350	In welk jaar is Viva La Vida van Coldplay uitgebracht?
+351	Wanneer overleed Andre Hazes?
+352	Wie zijn de leden van The Black Eyed Peas?
+353	Wanneer is de band Nickelback opgericht?
+354	Wat voor genre is de muziek van Nicky Romero?
+355	Uit welk land komt Disclosure?
+356	Wat is de geboortenaam van Akon?
+357	Waar is Eminem geboren?
+358	Wat was het eerste album van David Bowie?
+359	Welke EP's heeft Darius uitgebracht?
+360	Welke single bracht Gordon uit in 1991?
+361	Hoe heet het album van Deadmau5 met de beginletter R?
+362	In welk jaar werd The Police opgericht?
+363	Waar werd The Police opgericht?
+364	Wie is de bekendste musicus van Pearl Jam?
+365	Waar werd Pearl Jam opgericht?
+366	Hoe heet de officiële website van de band Pearl Jam?
+367	Onder welk genre valt de band Coldplay?
+368	In welk land is Pharrell Williams geboren?
+369	Wat is de naam van de eerste single van U2?
+370	Wat is de geboortedatum van Adele?
