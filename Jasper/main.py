@@ -11,10 +11,10 @@
 import socket
 import sys
 import lxml
-from SPARQLWrapper import SPARQLWrapper, JSON
 from lxml import etree
 from searchpage import *
 from support_functions import *
+from SPARQLWrapper import SPARQLWrapper, JSON
 
 def alpino_parse(sent, host='zardoz.service.rug.nl', port=42424):
     s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
@@ -75,23 +75,23 @@ for line in sys.stdin:
                                 for child in node:
                                     y.append(child.attrib["lemma"])
 
-                        node = xml.xpath('//node[@rel="hd" and @lemma]')
+                        node = xml.xpath('//node[@rel="hd" and @lemma and not(@rel="det")]')
                         if node:
                             for child in node:
                                 x.append(child.attrib["lemma"])
 
-                node = xml.xpath('//node[@cat="np" and @rel="su"]/node[@lemma]')
+                node = xml.xpath('//node[@cat="np" and @rel="su"]/node[@lemma and not(@rel="det")]')
                 if node:
                     for child in node:
                         x.append(child.attrib["lemma"])
 
-                    node = xml.xpath('//node[@cat="mwu" and @rel="obj1"]/node[@lemma]')
+                    node = xml.xpath('//node[@cat="mwu" and @rel="obj1"]/node[@lemma and not(@rel="det")]')
                     if node:
                         for child in node:
                             y.append(child.attrib["lemma"])
 
                     else:
-                        node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@rel="mod"]/node[@rel="obj1" and @lemma]')
+                        node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@rel="mod"]/node[@rel="obj1" and @lemma and not(@rel="det")]')
                         if node:
                             for child in node:
                                 y.append(child.attrib["lemma"])
@@ -114,7 +114,7 @@ for line in sys.stdin:
                     for child in node:
                         mod.append(child.attrib["lemma"])
 
-                    node = xml.xpath('//node[@cat="np" and @rel="whd"]/node[@rel="hd"]')
+                    node = xml.xpath('//node[@cat="np" and @rel="whd"]/node[@rel="hd" and not(@rel="det")]')
                     if node:
                         for child in node:
                             x.append(child.attrib["lemma"])
@@ -131,7 +131,7 @@ for line in sys.stdin:
                                     y.append(child.attrib["lemma"])
 
                 else:
-                    node = xml.xpath('//node[@rel="hd" and @lemma]')
+                    node = xml.xpath('//node[@rel="hd" and @lemma and not(@rel="det")]')
                     if node:
                         for child in node:
                             x.append(child.attrib["lemma"])
@@ -153,24 +153,32 @@ for line in sys.stdin:
     else:
         print("Dit is geen vraag")
 
-    print(mod)
+    prop = []
+    blacklist = ["zijn"]
+    
+    for word in x:
+        if word in blacklist: pass
+        else:
+            prop.append(word)
 
-    property = getProperty(x)
+    property = getProperty(prop)
+
+    print("prop: "+ str(prop) + " " + property)
 
     if property != "":
-        print(property)
-    else:
-        print("Toevoegen aan dict: "+str(x))
+
+        page = searchPage(y)
+
+        if page != "":
+
+            query = makeQuery(property,page,mod)
+
+            results = answerQuestion(query)
+
+            for result in results["results"]["bindings"]:
+                for arg in result:
+                    print(result[arg]["value"])
         
-    page = searchPage(y)
-    print(page)
-
-    query = makeQuery(property,page,modifiers))
-
-    print(query)
-
-    results = answerQuestion(query)
-
-    for result in results["results"]["bindings"]:
-        for arg in result:
-            print(result[arg]["value"])
+    else:
+        print("Toevoegen aan dict: "+str(prop))
+        

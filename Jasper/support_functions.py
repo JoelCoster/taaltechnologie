@@ -1,8 +1,11 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 
 def getProperty(inputString):
-    
+
+    inputString = " ".join(inputString)
+
     properties = {'geboortedatum': "dbpedia-owl:birthDate",
+                  'zijn geboren': "dbpedia-owl:birthDate",
                   'geboren': "dbpedia-owl:birthDate",
                   'naam': "dbpedia-owl:longName",
                   'beroep': "prop-nl:beroep",
@@ -15,6 +18,7 @@ def getProperty(inputString):
                   'bijnaam': "foaf:nick",
                   'bandleden': "dbpedia-owl:bandMember",
                   'leden': "dbpedia-owl:bandMember",
+                  'lid': "dbpedia-owl:bandMember",
                   'artiest': "dbpedia-owl:artist",
                   'schrijver': "dbpedia-owl:musicalArtist"}
 
@@ -29,8 +33,8 @@ def getProperty(inputString):
 
 
 
-def makeQuery(property, uri, modifiers):
+def makeQuery(property, resource, modifiers):
 
-	query = "SELECT STR(?output) WHERE { <"+uri+"> "+property+" ?output }"
+	query = "SELECT STR(?output) WHERE { <http://nl.dbpedia.org/resource/"+resource+"> "+property+" ?output }"
 	
 	return query
