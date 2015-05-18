@@ -1,3 +1,5 @@
+from SPARQLWrapper import SPARQLWrapper, JSON
+
 def getProperty(inputString):
     
     properties = {'geboortedatum': "dbpedia-owl:birthDate",
@@ -23,16 +25,12 @@ def getProperty(inputString):
 
     return found
 
+
+
+
+
 def makeQuery(property, uri, modifiers):
 
-    query = "SELECT STR(?output) WHERE { <"+uri+"> "+"bandleden"+" ?output }"
-    sparql = SPARQLWrapper("http://nl.dbpedia.org/sparql")
-    sparql.setQuery(query)
-    sparql.setReturnFormat(JSON)
-    
-    print(sparql.query().convert())
-    
-
-
-
-makeQuery("x", "http://nl.dbpedia.org/resource/U2_(band)", "a")
+	query = "SELECT STR(?output) WHERE { <"+uri+"> "+property+" ?output }"
+	
+	return query
