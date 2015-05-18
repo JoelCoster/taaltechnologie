@@ -4,7 +4,7 @@
 4	Wie schreef het album Songs of Innocence?
 5	Wat is de echte naam van Jett Rebel?
 6	Wie zijn de leden van U2?
-7	Hoe veel leden hebben de Beatles?
+7	Hoe veel leden hebben The Beatles?
 8	Hoe veel leden heeft U2?
 9	Wat is het kortste nummer van “Songs of Innocence”?
 10	Wie zijn de leden van de Beatles?

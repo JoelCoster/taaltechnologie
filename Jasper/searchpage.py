@@ -1,15 +1,23 @@
-# searchpage
-# Zoekt de juiste pagina
-# input: lijst Y
-# output: juiste dbpedia pagina
+import csv
+from SPARQLWrapper import SPARQLWrapper, JSON
+
+def answerQuestion(query):
+    sparql = SPARQLWrapper("http://nl.dbpedia.org/sparql")
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    
+    return sparql.query().convert()
+
 
 def searchPage(y):
+    
     y = " ".join(y)
 
     with open('anchor_summary.csv', 'r') as anchorfile:
 
         anchor_summarycsv = csv.reader(anchorfile, delimiter=',', quotechar='"')
-
+        page = ""
+        
         for regel in anchor_summarycsv:
 
             if regel[0].lower() == y.lower():
@@ -19,6 +27,8 @@ def searchPage(y):
                 break
 
             resource = False
+
+        if page != "":
 
             with open('page.csv', 'r') as pagefile:
 
@@ -33,8 +43,5 @@ def searchPage(y):
                     
                 if resource:
                     
-                    uri = "http://nl.dbpedia.org/resource/"+resource
+                    return resource
 
-                    return uri
-
-       

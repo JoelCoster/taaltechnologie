@@ -11,8 +11,10 @@
 import socket
 import sys
 import lxml
+from SPARQLWrapper import SPARQLWrapper, JSON
 from lxml import etree
-import searchpage
+from searchpage import *
+from support_functions import *
 
 def alpino_parse(sent, host='zardoz.service.rug.nl', port=42424):
     s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
@@ -37,7 +39,7 @@ for line in sys.stdin:
     # wat we zoeken: eigenschap, lid etc
     x = []
 
-    # van wie: de beatles etc.
+    # van wie: the beatles etc.
     y = []
     
     [id,question] = line.rstrip().split("\t")
@@ -65,7 +67,7 @@ for line in sys.stdin:
                         node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@lemma]')
                         if node:
                             for child in node:
-                                y.append((child.attrib["lemma"],child.attrib["frame"]))
+                                y.append(child.attrib["lemma"])
 
                         else:
                             node = xml.xpath('//node[@rel="body"]/node[@rel="su" and @lemma]')
@@ -152,5 +154,23 @@ for line in sys.stdin:
         print("Dit is geen vraag")
 
     print(mod)
-    print(x)
-    print(searchPage(y))
+
+    property = getProperty(x)
+
+    if property != "":
+        print(property)
+    else:
+        print("Toevoegen aan dict: "+str(x))
+        
+    page = searchPage(y)
+    print(page)
+
+    query = makeQuery(property,page,modifiers))
+
+    print(query)
+
+    results = answerQuestion(query)
+
+    for result in results["results"]["bindings"]:
+        for arg in result:
+            print(result[arg]["value"])
