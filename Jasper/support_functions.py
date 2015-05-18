@@ -1,6 +1,7 @@
 def getProperty(inputString):
     
     properties = {'geboortedatum': "dbpedia-owl:birthDate",
+                  'geboren': "dbpedia-owl:birthDate",
                   'naam': "dbpedia-owl:longName",
                   'beroep': "prop-nl:beroep",
                   'label': "dbpedia-owl:parentOrganisation",
@@ -21,3 +22,17 @@ def getProperty(inputString):
         found = ""
 
     return found
+
+def makeQuery(property, uri, modifiers):
+
+    query = "SELECT STR(?output) WHERE { <"+uri+"> "+"bandleden"+" ?output }"
+    sparql = SPARQLWrapper("http://nl.dbpedia.org/sparql")
+    sparql.setQuery(query)
+    sparql.setReturnFormat(JSON)
+    
+    print(sparql.query().convert())
+    
+
+
+
+makeQuery("x", "http://nl.dbpedia.org/resource/U2_(band)", "a")
