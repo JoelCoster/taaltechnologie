@@ -4,6 +4,8 @@ import socket
 import lxml
 from lxml import etree
 
+# Geeft de juiste dbpedia property terug op
+# basis van een woord.
 def getProperty(inputString):
 
     inputString = "_".join(inputString)
@@ -46,10 +48,11 @@ def getProperty(inputString):
                   'echte_volledige': "dbpedia-owl:longName",
                   'echt_naam': "dbpedia-owl:longName",
                   'geboortedag': "dbpedia-owl:birthDate",
+                  'geboorte_dag': "dbpedia-owl:birthDate",
                   'geloofsovertuiging': "prop-nl:geloof",
-                  'genre': "prop-nl:genre",
-                  'stijl': "prop-nl:genre",
-                  'muziek_stijl': "prop-nl:genre",
+                  'genre': "dbpedia-owl:genre",
+                  'stijl': "dbpedia-owl:genre",
+                  'muziek_stijl': "dbpedia-owl:genre",
                   'herkomst_plaats' : "dbpedia-owl:origin",
                   'herkomst' : "dbpedia-owl:origin",
                   'web_site': "foaf:homepage",
@@ -65,6 +68,7 @@ def getProperty(inputString):
                   "muziek_label": "prop-nl:recordLabel",
                   "bespelen": "dbpedia-owl:instrument",
                   "geheel_naam" : "dbpedia-owl:longName",
+                  "heel_naam" : "dbpedia-owl:longName",
                   "kind" : "prop-nl:kinderen",
                   "album": "dbpedia-owl:album",
                   "volledig_naam": "dbpedia-owl:longName",
@@ -77,6 +81,8 @@ def getProperty(inputString):
                   "land": "dbpedia-owl:country",
                   "huidig_lid": "dbpedia-owl:bandMember",
                   "geboorte_naam": "dbpedia-owl:longName",
+                  "geboorte_plaats": "dbpedia-owl:birthPlace",
+                  "geboorteplaats": "dbpedia-owl:birthPlace",
                   "instrument_bespelen": "dbpedia-owl:instrument ",
                   "uitgever": "prop-nl:recordLabel",
                   "uit_stad_komen" : "dbpedia-owl:country",
@@ -95,7 +101,7 @@ def getProperty(inputString):
                   'lied' : "dbpedia-owl:Single",
                   'plaat' : "dbpedia-owl:Single",
                   'album' : "dbpedia-owl:Album",
-                  'cd' : "dbpedia-owl:Album"
+                  'cd' : "dbpedia-owl:Album",
                   'platenlabel' : "dbpedia-owl:parentOrganisation",
                   'start_jaar' : "dbpedia-owl:activeYearsStartYear",
                   'sterven_jaar' : "dbpedia-owl:deathDate",
@@ -111,7 +117,10 @@ def getProperty(inputString):
 
     return found
 
-
+# Stelt de juiste query op, op basis van
+# de eigenschap, dbpediapagina, en eventuele
+# woorden die duiden op een lijst- of record-
+# vraag.
 def makeQuery(property, resource, modifiers, order):
 
     mod = "_".join(modifiers)
@@ -131,9 +140,10 @@ def makeQuery(property, resource, modifiers, order):
         
         query = "SELECT "+select+" WHERE { <http://nl.dbpedia.org/resource/"+resource+"> "+property+" ?output }"
 
-    print(query)
     return query
 
+# Verstuurt een vraag naar Alpino en geeft
+# het resultaat in XML-formaat terug.
 def alpino_parse(sent, host='zardoz.service.rug.nl', port=42424):
     s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
     s.connect((host,port))
@@ -149,14 +159,17 @@ def alpino_parse(sent, host='zardoz.service.rug.nl', port=42424):
     xml = etree.fromstring(bytes_received)
     return xml
 
+# Verstuurt een SPARQL query en geeft het
+# resultaat in JSON-formaat terug.
 def answerQuestion(query):
     sparql = SPARQLWrapper("http://nl.dbpedia.org/sparql")
     sparql.setQuery(query)
     sparql.setReturnFormat(JSON)
-    
     return sparql.query().convert()
 
-
+# Zoekt de juiste dbpedia pagina bij een
+# gegeven woord, op basis van anchorteksten
+# van Wikipedia.
 def searchPage(y):
     
     y = " ".join(y)
@@ -192,5 +205,3 @@ def searchPage(y):
                 if resource:
                     
                     return resource
-
-

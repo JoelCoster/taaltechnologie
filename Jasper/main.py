@@ -7,43 +7,28 @@
 # Jasper de Boer - s1889966
 # Joel Coster - s2555255
 
-import socket
 import sys
 import lxml
 from lxml import etree
 from support_functions import *
-from SPARQLWrapper import SPARQLWrapper, JSON
-
-count = 0
-answer = 0
-foundx = 0
-foundProp = 0
-foundy = 0
-foundPage = 0
 
 for line in sys.stdin:
 
-    # hoe veel
     mod = []
-
-    # wat we zoeken: eigenschap, lid etc
     x = []
-
-    # van wie: the beatles etc.
     y = []
     
     [id,question] = line.rstrip().split("\t")
 
-    xml = alpino_parse(question)
+    print(id,end="")
 
-    print(id+"\t"+question)
+    xml = alpino_parse(question)
 
     node = xml.xpath('//node[@cat="whq"]')
     if node:
 
         node = xml.xpath('//node[@rel="whd"]')
         if node:
-            #print("Deze zin heeft een vraagwoord")
 
             node = xml.xpath('//node[@rel="whd" and @lemma]')
             if node:
@@ -217,21 +202,6 @@ for line in sys.stdin:
                                 if node:
                                     for child in node:
                                         y.append(child.attrib["lemma"])
-                            
-        else:
-            print("Dit is een andere vraagzin")
-        
-    else:
-        print("Dit is geen vraag")
-
-    if len(x) > 0:
-        foundx += 1
-
-    if len(y) > 0:
-        foundy += 1
-
-    #print("X: "+str(x))
-    #print("Y: "+str(y))
 
     prop = []
     blacklist = ["zijn","in","jaar","van","op","door"]
@@ -254,40 +224,24 @@ for line in sys.stdin:
             prop = prop[1:]
 
     property = getProperty(prop)
-
     page = "None"
 
     if property != "":
-
-        foundProp += 1
-
         page = searchPage(y)
 
-    if str(page) != "None":
-
-        foundPage +=1
+    if str(page) == "None":
+        page = "_".join(y)
 
     if str(page) != "None" and property != "":
 
         query = makeQuery(property,page,mod,order)
-
         results = answerQuestion(query)
-        if results:
-            answer += 1
-        print(id,end="")
+
         for result in results["results"]["bindings"]:
             for arg in result:
                 print("\t"+result[arg]["value"],end="")
-        print()
-        
+
     else:
-        print("Antwoord vinden lukt nog niet")
+        print("\t",end="")
 
-    count += 1
-
-print("Aantal vragen:\t\t"+str(count))
-print("Aantal antwoorden:\t\t"+str(answer))
-print("Aantal x uit de vraag:\t\t"+str(foundx))
-print("Aantal eigenschappen gevonden:\t\t"+str(foundProp))
-print("Aantal y uit de vraag:\t\t"+str(foundy))
-print("Aantal pagina's gevonden:\t\t"+str(foundPage))
+    print()
