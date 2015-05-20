@@ -1,0 +1,468 @@
+1	Bij welk platenlabel zit John Mayer?
+Antwoord vinden lukt nog niet
+2	dbtune Wat is de website van The Beatles?
+Dit is geen vraag
+Antwoord vinden lukt nog niet
+3	In welke bands speelde Tim Knol?
+Antwoord vinden lukt nog niet
+4	In welk jaar begon Imagine Dragons?
+5	In welk jaar bracht Marco Borsato de single Rood uit?
+Antwoord vinden lukt nog niet
+6	In welk jaar verliet Ryan Dusick Maroon 5?
+Antwoord vinden lukt nog niet
+7	Op welk album van de band Coldplay staat The Scientist?
+Antwoord vinden lukt nog niet
+8	Question: Wat is de hele naam van Elvis?
+Antwoord vinden lukt nog niet
+9	Uit hoeveel leden bestaat U2?
+Antwoord vinden lukt nog niet
+10	Voor welke films maakte Ry Cooder de muziek?
+Antwoord vinden lukt nog niet
+11	Voor welk label werkte Johnny Cash?
+Antwoord vinden lukt nog niet
+12	Waar ligt de oorsprong van 30 Seconds To Mars?
+12
+13	Waar was de oprichting van Queen?
+Antwoord vinden lukt nog niet
+14	Wanneer overleed Michael Jackson?
+14
+15	Wat is de abstract van Linkin Park?
+15	Linkin Park is een Amerikaanse rockband uit Agoura Hills, Californië. Oorspronkelijk in 1996 opgericht als Xero door de vrienden Brad Delson, Rob Bourdon en Mike Shinoda, bestaan zij nu ook uit Joseph Hahn, Dave "Phoenix" Farrell en Chester Bennington. Linkin Park brak in 2000 door met het debuutalbum Hybrid Theory, dat de diamanten status kreeg in de Verenigde Staten en multiplatina was in verschillende andere landen. De band was succesvol met de nummers In the End, Numb/Encore en recent New Divide en heeft sinds de oprichting wereldwijd meer dan zestig miljoen albums verkocht en twee Grammy's gewonnen.Met het tweede studioalbum Meteora borduurde de band voort op de mainstream nu metal-/rap-rock-sound waarmee het op Hybrid Theory beroemd werd. Op het in 2007 uitgebrachte Minutes to Midnight verliet de band grotendeels de nu metal en ging richting de alternatieve rock, met nadruk op experimenteren met andere muziekstijlen lag. Het in elektronische rock gedoopte A Thousand Suns kwam in september 2010 uit. Op 22 juni 2012 kwam het vijfde studioalbum Living Things uit dat de vorige albums samenvoegde met als doel een nieuw geluid te creëren. In de zomer van 2014 komt het zesde studioalbum uit, namelijk The Hunting Party, dat volgens de bandleden een veel harder geluid heeft.	Linkin Park is een Amerikaanse rockband uit Agoura Hills, Californië. Oorspronkelijk in 1996 opgericht als Xero door de vrienden Brad Delson, Rob Bourdon en Mike Shinoda, bestaan zij nu ook uit Joseph Hahn, Dave "Phoenix" Farrell en Chester Bennington. Linkin Park brak in 2000 door met het debuutalbum Hybrid Theory, dat de diamanten status kreeg in de Verenigde Staten en multiplatina was in verschillende andere landen. De band was succesvol met de nummers In the End, Numb/Encore en recent New Divide en heeft sinds de oprichting wereldwijd meer dan zestig miljoen albums verkocht en twee Grammy's gewonnen.Met het tweede studioalbum Meteora borduurde de band voort op de mainstream nu metal-/rap-rock-sound waarmee het op Hybrid Theory beroemd werd. Op het in 2007 uitgebrachte Minutes to Midnight verliet de band grotendeels de nu metal en ging richting de alternatieve rock, met nadruk op experimenteren met andere muziekstijlen lag. Het in elektronische rock gedoopte A Thousand Suns kwam in september 2010 uit. Op 22 juni 2012 kwam het vijfde studioalbum Living Things uit dat de vorige albums samenvoegde met als doel een nieuw geluid te creëren. In de zomer van 2014 kwam het zesde studioalbum uit, namelijk The Hunting Party.
+16	Wat is de artiest van If I never see your face again?
+16
+17	Wat is de band van Ilse DeLange?
+Antwoord vinden lukt nog niet
+18	Wat is de band van John Lennon?
+Antwoord vinden lukt nog niet
+19	Wat is de bezetting van The Beatles?
+19	http://nl.dbpedia.org/resource/George_Harrison	http://nl.dbpedia.org/resource/Paul_McCartney	http://nl.dbpedia.org/resource/Ringo_Starr	http://nl.dbpedia.org/resource/John_Lennon
+20	Wat is de bezigheid van Marco Borsato?
+20	http://nl.dbpedia.org/resource/Acteur	http://nl.dbpedia.org/resource/Zanger
+21	Wat is de bijnaam van Amy Winehouse
+21	Queen of soul
+22	wat is de bijnaam van Bono?
+22	Bono
+23	Wat is de bijnaam van Elvis?
+23	The King	The King of Rock	The King of Music
+24	Wat is de bijnaam van Lenny Kravitz?
+24	The Krav
+25	Wat is de bijnaam van Madonna
+25	The Queen of Pop , Madge , Goddess of Pop	The Queen of Pop, Madge	The Queen of Pop, Madge, M
+26	Wat is de bijnaam van Steve Cropper?
+26	The Colonel
+27	Wat is de bijnaam van Usher?
+27	Usher , The King of R&B
+28	Wat is de duur/lengte van Child in Time?
+Antwoord vinden lukt nog niet
+29	Wat is de duur van 'We are the champions'?
+Antwoord vinden lukt nog niet
+30	Wat is de echte naam van Eminem?
+Antwoord vinden lukt nog niet
+31	Wat is de echte naam van Ringo Starr?
+Antwoord vinden lukt nog niet
+32	Wat is de echte/volledige naam van Fink?
+Antwoord vinden lukt nog niet
+33	Wat is de geboortedag van Justin Bieber?
+Antwoord vinden lukt nog niet
+34	Wat is de geboortedatum van Anouk?
+34	1975-04-08
+35	Wat is de geboortedatum van Bach?
+35	1685-03-21
+36	Wat is de geboortedatum van Bob Dylan?
+36	1941-05-24
+37	Wat is de geboortedatum van Chris Martin?
+37	1977-03-02
+38	Wat is de geboortedatum van Elvis?
+38	1935-01-08
+39	Wat is de geboortedatum van Enrique Iglesias
+39	1975-05-08
+40	Wat is de geboortedatum van Freddie Mercury?
+40	1946-09-05
+41	Wat is de geboortedatum van Herman Brood?
+41	1946-11-05
+42	Wat is de geboortedatum van Jan Smit?
+42	1985-12-31
+43	Wat is de geboortedatum van Jimi Hendrix?
+43	1942-11-27
+44	Wat is de geboortedatum van John Mayer?
+44	1977-10-16
+45	Wat is de geboortedatum van Justin Timberlake?
+45	1981-01-31
+46	Wat is de geboortedatum van Loud Reed?
+47	Wat is de geboortedatum van Maria Mena?
+47	1986-02-19
+48	Wat is de geboortedatum van Otis Redding?
+48	1941-09-09
+49	Wat is de geboortedatum van Pharrell Williams?
+49	1973-04-05
+50	Wat is de geboorteplaats van Katy Perry?
+Antwoord vinden lukt nog niet
+51	Wat is de geloofsovertuiging van Mozart?
+Antwoord vinden lukt nog niet
+52	Wat is de genre van The Kooks?
+Antwoord vinden lukt nog niet
+53	Wat is de herkomstplaats van The Beatles?
+Antwoord vinden lukt nog niet
+54	Wat is de herkomst van The Kooks?
+Antwoord vinden lukt nog niet
+55	Wat is de lengte van Sweet Goodbyes?
+Antwoord vinden lukt nog niet
+56	Wat is de muziekstijl van Bach?
+Antwoord vinden lukt nog niet
+57	Wat is de naam van Bono?
+57	Paul David Hewson
+58	Wat is de naam van Bono?
+58	Paul David Hewson
+59	Wat is de naam van de zangeres die k3 verliet?
+60	Wat is de naam van van Beethov?
+61	Wat is de officiele website van One Direction?
+Antwoord vinden lukt nog niet
+62	Wat is de oorsprong van Coldplay?
+62	http://nl.dbpedia.org/resource/Londen	http://nl.dbpedia.org/resource/Engeland
+63	Wat is de oorsprong van de 'Dire Straits'
+63
+64	Wat is de oorsprong van The Beatles?
+64	http://nl.dbpedia.org/resource/Verenigd_Koninkrijk	http://nl.dbpedia.org/resource/Liverpool
+65	Wat is de oorsprong van The Beatles?
+65	http://nl.dbpedia.org/resource/Verenigd_Koninkrijk	http://nl.dbpedia.org/resource/Liverpool
+66	Wat is de oorsprong van The Foo Fighters?
+66	http://nl.dbpedia.org/resource/Verenigde_Staten	http://nl.dbpedia.org/resource/Seattle	http://nl.dbpedia.org/resource/Washington_(staat)
+67	Wat is de oorsprong van The Who?
+67	http://nl.dbpedia.org/resource/Londen	http://nl.dbpedia.org/resource/Engeland	http://nl.dbpedia.org/resource/Shepherd's_Bush_(wijk)
+68	Wat is de oorsprong van Toto?
+68	http://nl.dbpedia.org/resource/Verenigde_Staten	http://nl.dbpedia.org/resource/Californië	http://nl.dbpedia.org/resource/Los_Angeles
+69	Wat is de oorzaak van de dood van John Lennon?
+Antwoord vinden lukt nog niet
+70	Wat is de oprichtingsdatum van Queen?
+Antwoord vinden lukt nog niet
+71	Wat is de platenmaatschappij van Guus Meeuwis
+Antwoord vinden lukt nog niet
+72	Wat is de platenmaatschappij van John Mayer?
+Antwoord vinden lukt nog niet
+73	Wat is de releasedatum van Dat ik je mis?
+Dit is geen vraag
+Antwoord vinden lukt nog niet
+74	Wat is de religie van Bono?
+Antwoord vinden lukt nog niet
+75	Wat is de religie van Mozart?
+Antwoord vinden lukt nog niet
+76	Wat is de startdatum van The Beatles?
+Antwoord vinden lukt nog niet
+77	Wat is de sterfdag van Freddy Mercury?
+Antwoord vinden lukt nog niet
+78	Wat is de sterfdatum van Amy Winehouse?
+Antwoord vinden lukt nog niet
+79	Wat is de sterfdatum van Frank Sinatra?
+Antwoord vinden lukt nog niet
+80	Wat is de sterfdatum van Freddie Mercury?
+Antwoord vinden lukt nog niet
+81	Wat is de sterfdatum van Herman Brood?
+Antwoord vinden lukt nog niet
+82	Wat is de sterfdatum van Jeff Buckley?
+Antwoord vinden lukt nog niet
+83	Wat is de sterfdatum van Kurt Cobain?
+Antwoord vinden lukt nog niet
+84	Wat is de stijl van Coldplay
+Antwoord vinden lukt nog niet
+85	Wat is de url van The Stones?
+Antwoord vinden lukt nog niet
+86	Wat is de volledige naam van Avril Lavigne?
+Antwoord vinden lukt nog niet
+87	Wat is de volledige naam van Avril Lavigne?
+Antwoord vinden lukt nog niet
+88	Wat is de volledige naam van Dotan?
+Antwoord vinden lukt nog niet
+89	Wat is de volledige naam van Guus Meeuwis?
+Antwoord vinden lukt nog niet
+90	Wat is de volledige naam van Guy Berryman?
+Antwoord vinden lukt nog niet
+91	Wat is de volledige naam van Jan Smit?
+Antwoord vinden lukt nog niet
+92	Wat is de volledige naam van John Fogerty?
+Antwoord vinden lukt nog niet
+93	Wat is de volledige naam van Paul McCartney
+Antwoord vinden lukt nog niet
+94	Wat is de webite van The Beatles?
+Antwoord vinden lukt nog niet
+95	Wat is de website van 30 Seconds To Mars?
+Antwoord vinden lukt nog niet
+96	Wat is de website van Coldplay?
+Antwoord vinden lukt nog niet
+97	Wat is de website van David Bowie ?
+Antwoord vinden lukt nog niet
+98	Wat is de website van de Red Hot Chili Peppers?
+Antwoord vinden lukt nog niet
+99	Wat is de website van Fall Out Boy?
+Antwoord vinden lukt nog niet
+100	Wat is de website van Justin Bieber?
+Antwoord vinden lukt nog niet
+101	Wat is de website van Miley Cyrus
+Antwoord vinden lukt nog niet
+102	Wat is de website van Nick en Simon?
+Antwoord vinden lukt nog niet
+103	Wat is de website van Stromae?
+Antwoord vinden lukt nog niet
+104	Wat is een instrument van Jimmy Hendrix?
+Antwoord vinden lukt nog niet
+105	Wat is een samenvatting over The Black Keys?
+105	The Black Keys is een Amerikaans bluesrockduo dat in 2001 in Akron (Ohio) door Dan Auerbach (zang en gitaar) en Patrick Carney (drums) werd opgericht. Het duo begon als een onafhankelijke band, die zijn muziek opnam in kelders en de muziek zelf produceerde, voordat ze doorbraken als een van de meest populaire garagerock bands van het tijdperk na 2010. Het rauwe geluid van de band staat duidelijk onder invloed van bluesartiesten als Junior Kimbrough, Howlin' Wolf en Robert Johnson.Auerbach en Carney waren jeugdvrienden alvorens ze The Black Keys oprichtten. Na het vroegtijdig beëindigen van hun studie besloten ze samen muziek te gaan maken. Na het tekenen van een platencontract met  Alive Naturalsound Records brachten ze  in 2002 hun eerste album uit, genaamd The Big Come Up. Dit album leverde ze een nieuwe deal op bij  Fat Possum. In de tien jaar die volgden verwierf The Black Keys in de  undergroundscene een vaste schare fans. Ze toerden veel langs kleine clubs en speelden op veel festivals. Hun derde album Rubber Factory uit 2004 ontving lovende kritieken en gaf een boost aan het imago, wat uiteindelijk leidde tot een nieuw platencontract bij Nonesuch in 2006. Na de eerste vier albums zelf te hebben geproduceerd in geïmproviseerde studio’s, werd in 2008 het album Attack & Release afgerond in een professionele studio, met behulp van producer Danger Mouse.De commerciële doorbraak van de groep vond plaats in 2010, door het album Brothers. Op dit album stond onder anderen de populaire single Tighten Up, die drie Grammy Awards won. Ook het daar op volgende album El Camino kon rekenen op positieve recensies en behaalde nummer twee  in de Billboard 200. Hierop volgde de eerste stadiontour van de band, de El Camino Tour. Het album met de daarop aanwezige hitsingle Lonely Boy won drie Grammy Awards. In 2014 brachten ze hun achtste album uit, Turn Blue genaamd. Dit album werd hun eerste nummer één notatie in de VS en Australië.	The Black Keys is een Amerikaans bluesrockduo dat in 2001 in Akron (Ohio) door Dan Auerbach (zang en gitaar) en Patrick Carney (drums) werd opgericht. Het duo begon als een onafhankelijke band, die zijn muziek opnam in kelders en de muziek zelf produceerde, voordat ze doorbraken als een van de meest populaire garagerock bands van het tijdperk na 2010. Het rauwe geluid van de band staat duidelijk onder invloed van bluesartiesten als Junior Kimbrough, Howlin' Wolf en Robert Johnson.Auerbach en Carney waren jeugdvrienden alvorens ze The Black Keys oprichtten. Na het vroegtijdig beëindigen van hun studie besloten ze samen muziek te gaan maken. Na het tekenen van een platencontract met  Alive Naturalsound Records brachten ze  in 2002 hun eerste album uit, genaamd The Big Come Up. Dit album leverde ze een nieuwe deal op bij  Fat Possum. In de tien jaar die volgden verwierf The Black Keys in de undergroundscene een vaste schare fans. Ze toerden veel langs kleine clubs en speelden op veel festivals. Hun derde album Rubber Factory uit 2004 ontving lovende kritieken en gaf een boost aan het imago, wat uiteindelijk leidde tot een nieuw platencontract bij Nonesuch in 2006. Na de eerste vier albums zelf te hebben geproduceerd in geïmproviseerde studio’s, werd in 2008 het album Attack & Release afgerond in een professionele studio, met behulp van producer Danger Mouse.De commerciële doorbraak van de groep vond plaats in 2010, door het album Brothers. Op dit album stond onder anderen de populaire single Tighten Up, die drie Grammy Awards won. Ook het daar op volgende album El Camino kon rekenen op positieve recensies en behaalde nummer twee  in de Billboard 200. Hierop volgde de eerste stadiontour van de band, de El Camino Tour. Het album met de daarop aanwezige hitsingle Lonely Boy won drie Grammy Awards. In 2014 brachten ze hun achtste album uit, Turn Blue genaamd. Dit album werd hun eerste nummer één notatie in de VS en Australië.
+106	Wat is het beginjaar van Adele
+Antwoord vinden lukt nog niet
+107	Wat is het beginjaar van Muse?
+Antwoord vinden lukt nog niet
+108	Wat is het beginjaar van Norah Jones?
+Antwoord vinden lukt nog niet
+109	Wat is het beroep van Avril Lavigne?
+109	http://nl.dbpedia.org/resource/Lijst_van_gitaristen	http://nl.dbpedia.org/resource/Acteur	http://nl.dbpedia.org/resource/Zanger	http://nl.dbpedia.org/resource/Model_(persoon)	http://nl.dbpedia.org/resource/Songwriter
+110	Wat is het beroep van Bono?
+110	http://nl.dbpedia.org/resource/Muzikant	http://nl.dbpedia.org/resource/Singer-songwriter	http://nl.dbpedia.org/resource/Activist	http://nl.dbpedia.org/resource/Filantroop
+111	Wat is het beroep van Bono?
+111	http://nl.dbpedia.org/resource/Muzikant	http://nl.dbpedia.org/resource/Singer-songwriter	http://nl.dbpedia.org/resource/Activist	http://nl.dbpedia.org/resource/Filantroop
+112	Wat is het beroep van Justin Timberlake?
+112	http://nl.dbpedia.org/resource/Acteur
+113	Wat is het beroep van Nicki Minaj?
+113
+114	Wat is het beroep van Roger Waters?
+114	http://nl.dbpedia.org/resource/Bassist
+115	Wat is het budget van The Million Dollar Hotel?
+Antwoord vinden lukt nog niet
+116	Wat is het debuutalbum van Boudewijn de Groot?
+Antwoord vinden lukt nog niet
+117	Wat is het geboortejaar van John Lennon?
+Antwoord vinden lukt nog niet
+118	wat is het geloof van Bono?
+118	overtuigd christen
+119	Wat is het geloof van Bono?
+119	overtuigd christen
+120	Wat is het geloof van Bono?
+120	overtuigd christen
+121	Wat is het genre van Alanis Morissette?
+Antwoord vinden lukt nog niet
+122	Wat is het genre van Amy Winehouse?
+Antwoord vinden lukt nog niet
+123	Wat is het genre van Bob Marley?
+Antwoord vinden lukt nog niet
+124	Wat is het genre van Chuck Berry?
+Antwoord vinden lukt nog niet
+125	Wat is het genre van Joan Baez?
+Antwoord vinden lukt nog niet
+126	Wat is het genre van Marco Borsato?
+Antwoord vinden lukt nog niet
+127	Wat is het genre van 'Paloma Blanca'?
+Antwoord vinden lukt nog niet
+128	Wat is het genre van Ringo Starr?
+Antwoord vinden lukt nog niet
+129	Wat is het genre van Taylor Swift?
+Antwoord vinden lukt nog niet
+130	Wat is het genre van The Red Hot Chilli Peppers?
+Antwoord vinden lukt nog niet
+131	Wat is het genre van The Rolling Stones?
+Antwoord vinden lukt nog niet
+132	Wat is het genre van Tom Waits?
+Antwoord vinden lukt nog niet
+133	Wat is het genre van U2?
+Antwoord vinden lukt nog niet
+134	Wat is het instrument van Keith Moon?
+Antwoord vinden lukt nog niet
+135	Wat is het instrument van Phil Collins?
+Antwoord vinden lukt nog niet
+136	Wat is het instrument van Ringo Starr?
+Antwoord vinden lukt nog niet
+137	Wat is het instrument van Wibi Soerjadi?
+Antwoord vinden lukt nog niet
+138	Wat is het invoerjaar van het Wilhelmus?
+Antwoord vinden lukt nog niet
+139	Wat is het label van Chris Martin?
+139
+140	Wat is het label van Ed Sheeran?
+141	Wat is het label van Opgezwolle?
+141	http://nl.dbpedia.org/resource/TopNotch
+142	Wat is het label van Steve Lukather?
+142
+143	Wat is het label van The Black Keys?
+143	http://nl.dbpedia.org/resource/V2_Records
+144	Wat is het land van Johnny Cash?
+Antwoord vinden lukt nog niet
+145	Wat is het land van oorsprong van The Beatles?
+Antwoord vinden lukt nog niet
+146	Wat is het langste album van Pink Floyd?
+Antwoord vinden lukt nog niet
+147	Wat is het platenlabel van Chris Brown?
+147
+148	Wat is het platenlabel van Maroon 5?
+148	http://nl.dbpedia.org/resource/Sony_BMG_Music_Entertainment	http://nl.dbpedia.org/resource/Octone_Records
+149	Wat is het startjaar van De Dijk (band)?
+Antwoord vinden lukt nog niet
+150	Wat is het startjaar van Rammstein?
+Antwoord vinden lukt nog niet
+151	Wat is het sterfjaar van Herman Brood?
+Antwoord vinden lukt nog niet
+152	Wat is het vak van Janine Jansen?
+Antwoord vinden lukt nog niet
+153	Wat was de bijnaam van Amy Winehouse?
+153	Queen of soul
+154	Wat was de bijnaam van Amy Winehouse?
+154	Queen of soul
+155	Wat was de bijnaam van Britney Spears?
+155	Princess of Pop	Princess of Pop
+156	Wat was het album van Clocks?
+Antwoord vinden lukt nog niet
+157	Wat zijn de albums van Creedence Clearwater Revival?
+Antwoord vinden lukt nog niet
+158	Wat zijn de albums van Linkin Park?
+Antwoord vinden lukt nog niet
+159	Wat zijn de albums van U2?
+Antwoord vinden lukt nog niet
+160	Wat zijn de beroepen van Brian May?
+160	http://nl.dbpedia.org/resource/Auteur	http://nl.dbpedia.org/resource/Muzikant	http://nl.dbpedia.org/resource/Muziekproducent	http://nl.dbpedia.org/resource/Songwriter	http://nl.dbpedia.org/resource/Astronoom
+161	Wat zijn de bijnamen van Michael Jackson?
+161
+162	Wat zijn de functies van Coldplay
+Antwoord vinden lukt nog niet
+163	Wat zijn de genres van Andre Hazes?
+Antwoord vinden lukt nog niet
+164	Wat zijn de genres van Linkin Park?
+Antwoord vinden lukt nog niet
+165	Wat zijn de genres van Pink Floyd?
+Antwoord vinden lukt nog niet
+166	Wat zijn de instrumenten van Adele
+Antwoord vinden lukt nog niet
+167	Wat zijn de instrumenten van Avril Lavigne?
+Antwoord vinden lukt nog niet
+168	Wat zijn de instrumenten van Avril Lavigne?
+Antwoord vinden lukt nog niet
+169	Wat zijn de instrumenten van Billy Joel?
+Antwoord vinden lukt nog niet
+170	Wat zijn de instrumenten van Bono?
+Antwoord vinden lukt nog niet
+171	Wat zijn de instrumenten van Paul McCartney?
+Antwoord vinden lukt nog niet
+172	Wat zijn de instrumenten van Yann Tiersen?
+Antwoord vinden lukt nog niet
+173	Wat zijn de leden van Maroon 5?
+173	http://nl.dbpedia.org/resource/Adam_Levine	http://nl.dbpedia.org/resource/James_Valentine	http://nl.dbpedia.org/resource/Jesse_Carmichael	http://nl.dbpedia.org/resource/Matt_Flynn	http://nl.dbpedia.org/resource/Mickey_Madden	http://nl.dbpedia.org/resource/P.J._Morton
+174	Wat zijn de liedjes van Queen
+Antwoord vinden lukt nog niet
+175	Wat zijn de muziekinstrumenten van Justin Timberlake?
+Antwoord vinden lukt nog niet
+176	Wat zijn de muziekstijlen van John Coltrane?
+Antwoord vinden lukt nog niet
+177	Wat zijn de namen van Guus Meeuwis
+177	Gustaaf Stephanus Modestus Meeuwis
+178	Wat zijn de platenmaatschappijen van de David Guetta?
+Antwoord vinden lukt nog niet
+179	Wat zijn de platenmaatschappijen van U2?
+Antwoord vinden lukt nog niet
+180	Wat zijn de rollen van The Rolling Stones?
+Antwoord vinden lukt nog niet
+181	Wat zijn de roots van de Who?
+Antwoord vinden lukt nog niet
+182	Wat zijn de voormalige leden van Metallica
+Antwoord vinden lukt nog niet
+183	Welk bandlid van Maroon 5 speelt in de film Begin Again?
+Antwoord vinden lukt nog niet
+184	Welke albums zijn van Amon Tobin?
+Antwoord vinden lukt nog niet
+185	Welke artisten brachten samen het nummer Rampeneren uit?
+Antwoord vinden lukt nog niet
+186	Welke genres worden toegeschreven aan de muziek van Muse?
+Dit is geen vraag
+Antwoord vinden lukt nog niet
+187	Welke instrumenten bespeelt Avril Lavigne?
+Antwoord vinden lukt nog niet
+188	Welke instrumenten speelt Ringo Starr?
+Antwoord vinden lukt nog niet
+189	Welk genre speelde Johnny Cash?
+Antwoord vinden lukt nog niet
+190	'Wie is beinvloed door Jimmy Hendriks?
+Dit is geen vraag
+Antwoord vinden lukt nog niet
+191	Wie is de artiest van Hocus Pocus (lied)?
+191
+192	Wie is de artiest van Nevermind?
+192	http://nl.dbpedia.org/resource/Nirvana_(Amerikaanse_band)
+193	Wie is de artiest van Stairway to Heaven?
+193	http://nl.dbpedia.org/resource/Led_Zeppelin
+194	Wie is de artiest van The Wall?
+194	http://nl.dbpedia.org/resource/Pink_Floyd
+195	Wie is de manager van Queen?
+Antwoord vinden lukt nog niet
+196	Wie is de manager van U2?
+Antwoord vinden lukt nog niet
+197	Wie is de partner van Johnny Cash?
+197	http://nl.dbpedia.org/resource/June_Carter_Cash
+198	Wie is de producer van Escapology?
+Antwoord vinden lukt nog niet
+199	Wie is de schrijver van The Scientist?
+199	http://nl.dbpedia.org/resource/Coldplay
+200	Wie is de zanger van It Was a Very Good Year?
+Antwoord vinden lukt nog niet
+201	Wie is het record label van Deep Purple?
+Antwoord vinden lukt nog niet
+202	Wie maakte het album El Camino?
+Antwoord vinden lukt nog niet
+203	Wie waren de bandleden van The Rolling Stones?
+Antwoord vinden lukt nog niet
+204	Wie waren de bandleden van U2?
+Antwoord vinden lukt nog niet
+205	Wie was de band van I want it all?
+Antwoord vinden lukt nog niet
+206	Wie was de schrijver van Smooth Criminal?
+206	http://nl.dbpedia.org/resource/Michael_Jackson
+207	Wie was de vrouw van Johnny Cash
+Antwoord vinden lukt nog niet
+208	Wie zijn de bandleden van Coldplay?
+Antwoord vinden lukt nog niet
+209	Wie zijn de bandleden van Coldplay?
+Antwoord vinden lukt nog niet
+210	Wie zijn de groepsleden van de Eagles?
+Antwoord vinden lukt nog niet
+211	Wie zijn de kinderen van Rudi Carrell?
+Antwoord vinden lukt nog niet
+212	Wie zijn de leden van Coldplay
+212	http://nl.dbpedia.org/resource/Chris_Martin	http://nl.dbpedia.org/resource/Will_Champion	http://nl.dbpedia.org/resource/Guy_Berryman	http://nl.dbpedia.org/resource/Jonny_Buckland
+213	Wie zijn de leden van Coldplay?
+213	http://nl.dbpedia.org/resource/Chris_Martin	http://nl.dbpedia.org/resource/Will_Champion	http://nl.dbpedia.org/resource/Guy_Berryman	http://nl.dbpedia.org/resource/Jonny_Buckland
+214	Wie zijn de leden van Counting Crows?
+214	http://nl.dbpedia.org/resource/Adam_Duritz	http://nl.dbpedia.org/resource/David_Bryson	http://nl.dbpedia.org/resource/Charles_Gillingham	http://nl.dbpedia.org/resource/David_Immerglück	http://nl.dbpedia.org/resource/Jim_Bogios	http://nl.dbpedia.org/resource/Dan_Vickrey
+215	Wie zijn de leden van de Eagles?
+216	Wie zijn de leden van Fleetwood Mac?
+216
+217	Wie zijn de leden van Green Day?
+217	http://nl.dbpedia.org/resource/Michael_Pritchard	http://nl.dbpedia.org/resource/Tré_Cool	http://nl.dbpedia.org/resource/Billie_Joe_Armstrong	http://nl.dbpedia.org/resource/Jason_White
+218	Wie zijn de leden van K3?
+218	http://nl.dbpedia.org/resource/Karen_Damen	http://nl.dbpedia.org/resource/Kristel_Verbeke	http://nl.dbpedia.org/resource/Josje_Huisman
+219	Wie zijn de leden van Orbital?
+219	http://nl.dbpedia.org/resource/Phil_Hartnoll	http://nl.dbpedia.org/resource/Paul_Hartnoll
+220	Wie zijn de leden van The Beatles?
+220	http://nl.dbpedia.org/resource/George_Harrison	http://nl.dbpedia.org/resource/Paul_McCartney	http://nl.dbpedia.org/resource/Ringo_Starr	http://nl.dbpedia.org/resource/John_Lennon
+221	Wie zijn de leden van The Beatles?
+221	http://nl.dbpedia.org/resource/George_Harrison	http://nl.dbpedia.org/resource/Paul_McCartney	http://nl.dbpedia.org/resource/Ringo_Starr	http://nl.dbpedia.org/resource/John_Lennon
+222	Wie zijn de leden van The Beatles?
+222	http://nl.dbpedia.org/resource/George_Harrison	http://nl.dbpedia.org/resource/Paul_McCartney	http://nl.dbpedia.org/resource/Ringo_Starr	http://nl.dbpedia.org/resource/John_Lennon
+223	Wie zijn de leden van 'The Golden Earring'?
+223	http://nl.dbpedia.org/resource/Cesar_Zuiderwijk	http://nl.dbpedia.org/resource/Rinus_Gerritsen	http://nl.dbpedia.org/resource/Barry_Hay	http://nl.dbpedia.org/resource/George_Kooymans
+224	Wie zijn de oudleden van Metallica?
+Antwoord vinden lukt nog niet
+225	Wie zijn de sukkels van The Who?
+Antwoord vinden lukt nog niet
+226	Wie zijn de voormalige bandleden van The Beatles?
+Antwoord vinden lukt nog niet
+227	Wie zijn de voormalige leden van BZN?
+Antwoord vinden lukt nog niet
+228	Wie zijn lid geweest van Queen?
+Antwoord vinden lukt nog niet
+229	Wie zijn lid van de band Queen?
+Antwoord vinden lukt nog niet
+230	Wie zijn lid van de Rolling Stones?
+Antwoord vinden lukt nog niet
+231	Wie zijn lid van The Black Eyed Peas?
+Antwoord vinden lukt nog niet
+232	Wie zijn oudleden van Genesis?
+Antwoord vinden lukt nog niet
+Aantal vragen:		233
+Aantal antwoorden:		78
+Aantal x uit de vraag:		226
+Aantal eigenschappen gevonden:		84
+Aantal y uit de vraag:		221
+Aantal pagina's gevonden:		78

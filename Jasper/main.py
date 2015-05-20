@@ -230,6 +230,9 @@ for line in sys.stdin:
     if len(y) > 0:
         foundy += 1
 
+    print("X: "+str(x))
+    print("Y: "+str(y))
+
     prop = []
     blacklist = ["zijn","in","jaar","van","op","door"]
     
