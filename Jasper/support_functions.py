@@ -37,8 +37,23 @@ def getProperty(inputString):
                   'samenvatting' : "dbpedia-owl:abstract",
                   'bezetting': "dbpedia-owl:bandMember",
                   'bezigheid' : "dbpedia-owl:occupation",
-                  'beroep' : "dbpedia-owl:occupation"
-   
+                  'beroep' : "dbpedia-owl:occupation",
+                  'duur' : "dbpedia-owl:playingTime",
+                  'lengte' : "dbpedia-owl:playingTime",
+                  'duur_lengte' : "dbpedia-owl:playingTime",
+                  'afspeeltijd' : "dbpedia-owl:playingTime",
+                  'speeltijd' : "dbpedia-owl:playingTime",
+                  'echte_volledige': "dbpedia-owl:longName",
+                  'echt_naam': "dbpedia-owl:longName",
+                  'geboortedag': "dbpedia-owl:birthDate",
+                  'geloofsovertuiging': "prop-nl:geloof",
+                  'genre': "prop-nl:genre",
+                  'stijl': "prop-nl:genre",
+                  'muziek_stijl': "prop-nl:genre",
+                  'herkomst_plaats' : "dbpedia-owl:origin",
+                  'herkomst' : "dbpedia-owl:origin",
+                  
+                  
                   }
 
     try:
