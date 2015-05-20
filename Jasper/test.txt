@@ -1,6 +1,7 @@
-1	Wat is het kortste nummer van het album Songs of Innocence?
-2	Wanneer is Justin Bieber geboren?
-3	Wanneer is U2 opgericht?
+1	In welke bands speelde Tim Knol?				
+2	In welk jaar begon Imagine Dragons?				
+3	In welk jaar bracht Marco Borsato de single Rood uit?				
+5	Op welk album van de band Coldplay staat The Scientist?				
 4	Wie schreef het album Songs of Innocence?
 5	Wat is de echte naam van Jett Rebel?
 6	Wie zijn de leden van U2?

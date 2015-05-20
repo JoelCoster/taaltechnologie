@@ -5,31 +5,14 @@
 # Output: id[tab]antwoord[tab]antwoord[...]
 
 # Jasper de Boer - s1889966
-# Joel Coster - 
-# Hans Rudolf Woldring -
+# Joel Coster - s2555255
 
 import socket
 import sys
 import lxml
 from lxml import etree
-from searchpage import *
 from support_functions import *
 from SPARQLWrapper import SPARQLWrapper, JSON
-
-def alpino_parse(sent, host='zardoz.service.rug.nl', port=42424):
-    s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-    s.connect((host,port))
-    sent = sent + "\n\n"
-    sentbytes= sent.encode('utf-8')
-    s.sendall(sentbytes)
-    bytes_received= b''
-    while True:
-        byte = s.recv(8192)
-        if not byte:
-            break
-        bytes_received += byte
-    xml = etree.fromstring(bytes_received)
-    return xml
 
 for line in sys.stdin:
 
@@ -46,7 +29,7 @@ for line in sys.stdin:
 
     xml = alpino_parse(question)
 
-    print(id+" "+question)
+    print(id+"\t"+question)
 
     node = xml.xpath('//node[@cat="whq"]')
     if node:
@@ -154,7 +137,7 @@ for line in sys.stdin:
         print("Dit is geen vraag")
 
     prop = []
-    blacklist = ["zijn"]
+    blacklist = ["zijn","in","jaar","van","op"]
     
     for word in x:
         if word in blacklist: pass
@@ -163,22 +146,22 @@ for line in sys.stdin:
 
     property = getProperty(prop)
 
-    print("prop: "+ str(prop) + " " + property)
-
     if property != "":
 
         page = searchPage(y)
 
-        if page != "":
+        if str(page) != "None":
 
             query = makeQuery(property,page,mod)
 
             results = answerQuestion(query)
-
+            print(id,end="")
             for result in results["results"]["bindings"]:
                 for arg in result:
-                    print(result[arg]["value"])
+                    print("\t"+result[arg]["value"],end="")
+            print()
         
     else:
-        print("Toevoegen aan dict: "+str(prop))
+        print("Prop:" +str(prop))
+        print("Y: "+str(y))
         
