@@ -89,6 +89,13 @@ def getProperty(inputString):
                   "instrument" : "dbpedia-owl:instrument",
                   'beginjaar' : "dbpedia-owl:activeYearsStartYear",
                   'budget' : "prop-nl:budget",
+                  'nummer' : "dbpedia-owl:Single",
+                  'single' : "dbpedia-owl:Single",
+                  'liedje' : "dbpedia-owl:Single",
+                  'lied' : "dbpedia-owl:Single",
+                  'plaat' : "dbpedia-owl:Single",
+                  'album' : "dbpedia-owl:Album",
+                  'cd' : "dbpedia-owl:Album"
                   }
 
     try:
@@ -99,20 +106,26 @@ def getProperty(inputString):
     return found
 
 
-def makeQuery(property, resource, modifiers):
+def makeQuery(property, resource, modifiers, order):
 
     mod = "_".join(modifiers)
 
     modDict = { "hoe_veel" : "COUNT(STR(?output))"}
 
-    if mod in modDict:
-        select = modDict[mod]
-    else:
-        select = "STR(?output)"
-    
+    if order != "":
 
-    query = "SELECT "+select+" WHERE { <http://nl.dbpedia.org/resource/"+resource+"> "+property+" ?output }"
-	
+        query = "SELECT ?output WHERE { ?output prop-nl:artiest <http://nl.dbpedia.org/resource/"+resource+"> . ?output "+order[1]+" ?order } ORDER BY "+order[0]+"(?order) LIMIT 1"
+
+    else:
+
+        if mod in modDict:
+            select = modDict[mod]
+        else:
+            select = "STR(?output)"
+        
+        query = "SELECT "+select+" WHERE { <http://nl.dbpedia.org/resource/"+resource+"> "+property+" ?output }"
+
+    print(query)
     return query
 
 def alpino_parse(sent, host='zardoz.service.rug.nl', port=42424):

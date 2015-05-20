@@ -14,7 +14,7 @@ from lxml import etree
 from support_functions import *
 from SPARQLWrapper import SPARQLWrapper, JSON
 
-count = 1
+count = 0
 answer = 0
 foundx = 0
 foundProp = 0
@@ -230,8 +230,8 @@ for line in sys.stdin:
     if len(y) > 0:
         foundy += 1
 
-    print("X: "+str(x))
-    print("Y: "+str(y))
+    #print("X: "+str(x))
+    #print("Y: "+str(y))
 
     prop = []
     blacklist = ["zijn","in","jaar","van","op","door"]
@@ -239,9 +239,23 @@ for line in sys.stdin:
     for word in x:
         if word in blacklist: pass
         else:
-            prop.append(word)
+            prop.append(word) 
+
+    modList = {"lang": ["DESC","dbpedia-owl:playingTime"],
+               "kort": ["ASC", "dbpedia-owl:playingTime"],
+               "eerste": ["ASC", "prop-nl:releasedatum "],
+               "laat": ["DESC","prop-nl:releasedatum"],
+               "nieuw": ["DESC","prop-nl:releasedatum"]}
+
+    order = ""
+    if len(prop) > 0:
+        if prop[0] in modList:
+            order = modList[prop[0]]
+            prop = prop[1:]
 
     property = getProperty(prop)
+
+    page = "None"
 
     if property != "":
 
@@ -249,20 +263,22 @@ for line in sys.stdin:
 
         page = searchPage(y)
 
-        if str(page) != "None":
+    if str(page) != "None":
 
-            foundPage +=1
+        foundPage +=1
 
-            query = makeQuery(property,page,mod)
+    if str(page) != "None" and property != "":
 
-            results = answerQuestion(query)
-            if results:
-                answer += 1
-            print(id,end="")
-            for result in results["results"]["bindings"]:
-                for arg in result:
-                    print("\t"+result[arg]["value"],end="")
-            print()
+        query = makeQuery(property,page,mod,order)
+
+        results = answerQuestion(query)
+        if results:
+            answer += 1
+        print(id,end="")
+        for result in results["results"]["bindings"]:
+            for arg in result:
+                print("\t"+result[arg]["value"],end="")
+        print()
         
     else:
         print("Antwoord vinden lukt nog niet")

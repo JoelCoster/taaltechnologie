@@ -1,930 +1,474 @@
 1	Bij welk platenlabel zit John Mayer?
-X: ['bij', 'plaat_label', 'zitten']
-Y: ['John', 'Mayer']
 Antwoord vinden lukt nog niet
 2	dbtune Wat is de website van The Beatles?
 Dit is geen vraag
-X: []
-Y: []
 Antwoord vinden lukt nog niet
 3	In welke bands speelde Tim Knol?
-X: ['in', 'band', 'spelen']
-Y: ['Tim', 'Knol']
 Antwoord vinden lukt nog niet
 4	In welk jaar begon Imagine Dragons?
-X: ['in', 'jaar', 'beginnen']
-Y: ['Imagine', 'Dragons']
+Antwoord vinden lukt nog niet
 5	In welk jaar bracht Marco Borsato de single Rood uit?
-X: ['in', 'jaar', 'uit_brengen', 'single']
-Y: ['Marco', 'Borsato']
 Antwoord vinden lukt nog niet
 6	In welk jaar verliet Ryan Dusick Maroon 5?
-X: ['in', 'jaar', 'verlaten']
-Y: ['Ryan', 'Dusick']
 Antwoord vinden lukt nog niet
 7	Op welk album van de band Coldplay staat The Scientist?
-X: ['op', 'album', 'van', 'band', 'staan']
-Y: ['The', 'Scientist']
 Antwoord vinden lukt nog niet
 8	Question: Wat is de hele naam van Elvis?
-X: ['heel', 'naam']
-Y: ['Elvis']
 Antwoord vinden lukt nog niet
 9	Uit hoeveel leden bestaat U2?
-X: ['uit', 'lid', 'bestaan']
-Y: ['U2']
 Antwoord vinden lukt nog niet
 10	Voor welke films maakte Ry Cooder de muziek?
-X: ['voor', 'film', 'maken', 'muziek']
-Y: ['Ry', 'Cooder']
 Antwoord vinden lukt nog niet
 11	Voor welk label werkte Johnny Cash?
-X: ['voor', 'label', 'werken']
-Y: ['Johnny', 'Cash']
 Antwoord vinden lukt nog niet
 12	Waar ligt de oorsprong van 30 Seconds To Mars?
-X: ['oorsprong']
-Y: ['30']
 12
 13	Waar was de oprichting van Queen?
-X: ['oprichting']
-Y: ['Queen']
 Antwoord vinden lukt nog niet
 14	Wanneer overleed Michael Jackson?
-X: ['overlijden']
-Y: ['Michael', 'Jackson']
 14
 15	Wat is de abstract van Linkin Park?
-X: ['abstract']
-Y: ['Linkin', 'Park']
 15	Linkin Park is een Amerikaanse rockband uit Agoura Hills, Californië. Oorspronkelijk in 1996 opgericht als Xero door de vrienden Brad Delson, Rob Bourdon en Mike Shinoda, bestaan zij nu ook uit Joseph Hahn, Dave "Phoenix" Farrell en Chester Bennington. Linkin Park brak in 2000 door met het debuutalbum Hybrid Theory, dat de diamanten status kreeg in de Verenigde Staten en multiplatina was in verschillende andere landen. De band was succesvol met de nummers In the End, Numb/Encore en recent New Divide en heeft sinds de oprichting wereldwijd meer dan zestig miljoen albums verkocht en twee Grammy's gewonnen.Met het tweede studioalbum Meteora borduurde de band voort op de mainstream nu metal-/rap-rock-sound waarmee het op Hybrid Theory beroemd werd. Op het in 2007 uitgebrachte Minutes to Midnight verliet de band grotendeels de nu metal en ging richting de alternatieve rock, met nadruk op experimenteren met andere muziekstijlen lag. Het in elektronische rock gedoopte A Thousand Suns kwam in september 2010 uit. Op 22 juni 2012 kwam het vijfde studioalbum Living Things uit dat de vorige albums samenvoegde met als doel een nieuw geluid te creëren. In de zomer van 2014 komt het zesde studioalbum uit, namelijk The Hunting Party, dat volgens de bandleden een veel harder geluid heeft.	Linkin Park is een Amerikaanse rockband uit Agoura Hills, Californië. Oorspronkelijk in 1996 opgericht als Xero door de vrienden Brad Delson, Rob Bourdon en Mike Shinoda, bestaan zij nu ook uit Joseph Hahn, Dave "Phoenix" Farrell en Chester Bennington. Linkin Park brak in 2000 door met het debuutalbum Hybrid Theory, dat de diamanten status kreeg in de Verenigde Staten en multiplatina was in verschillende andere landen. De band was succesvol met de nummers In the End, Numb/Encore en recent New Divide en heeft sinds de oprichting wereldwijd meer dan zestig miljoen albums verkocht en twee Grammy's gewonnen.Met het tweede studioalbum Meteora borduurde de band voort op de mainstream nu metal-/rap-rock-sound waarmee het op Hybrid Theory beroemd werd. Op het in 2007 uitgebrachte Minutes to Midnight verliet de band grotendeels de nu metal en ging richting de alternatieve rock, met nadruk op experimenteren met andere muziekstijlen lag. Het in elektronische rock gedoopte A Thousand Suns kwam in september 2010 uit. Op 22 juni 2012 kwam het vijfde studioalbum Living Things uit dat de vorige albums samenvoegde met als doel een nieuw geluid te creëren. In de zomer van 2014 kwam het zesde studioalbum uit, namelijk The Hunting Party.
 16	Wat is de artiest van If I never see your face again?
-X: ['artiest']
-Y: ['If', 'I', 'never', 'see', 'your', 'face', 'again']
 16
 17	Wat is de band van Ilse DeLange?
-X: ['band']
-Y: ['Ilse', 'DeLange']
 Antwoord vinden lukt nog niet
 18	Wat is de band van John Lennon?
-X: ['band']
-Y: ['John', 'Lennon']
 Antwoord vinden lukt nog niet
 19	Wat is de bezetting van The Beatles?
-X: ['bezetting']
-Y: ['The', 'Beatles']
 19	http://nl.dbpedia.org/resource/George_Harrison	http://nl.dbpedia.org/resource/Paul_McCartney	http://nl.dbpedia.org/resource/Ringo_Starr	http://nl.dbpedia.org/resource/John_Lennon
 20	Wat is de bezigheid van Marco Borsato?
-X: ['bezigheid']
-Y: ['Marco', 'Borsato']
 20	http://nl.dbpedia.org/resource/Acteur	http://nl.dbpedia.org/resource/Zanger
 21	Wat is de bijnaam van Amy Winehouse
-X: ['bijnaam']
-Y: ['Amy', 'Winehouse']
 21	Queen of soul
 22	wat is de bijnaam van Bono?
-X: ['bijnaam']
-Y: ['Bono']
 22	Bono
 23	Wat is de bijnaam van Elvis?
-X: ['bijnaam']
-Y: ['Elvis']
 23	The King	The King of Rock	The King of Music
 24	Wat is de bijnaam van Lenny Kravitz?
-X: ['bijnaam']
-Y: ['Lenny', 'Kravitz']
 24	The Krav
 25	Wat is de bijnaam van Madonna
-X: ['bijnaam']
-Y: ['Madonna']
 25	The Queen of Pop , Madge , Goddess of Pop	The Queen of Pop, Madge	The Queen of Pop, Madge, M
 26	Wat is de bijnaam van Steve Cropper?
-X: ['bijnaam']
-Y: ['Steve', 'Cropper']
 26	The Colonel
 27	Wat is de bijnaam van Usher?
-X: ['bijnaam']
-Y: ['Usher']
 27	Usher , The King of R&B
 28	Wat is de duur/lengte van Child in Time?
-X: ['duur_lengte']
-Y: ['Child', 'in', 'Time']
 28	618
 29	Wat is de duur van 'We are the champions'?
-X: ['duur']
-Y: ['We', 'are', 'the', 'champions']
 29
 30	Wat is de echte naam van Eminem?
-X: ['echt', 'naam']
-Y: ['Eminem']
-Antwoord vinden lukt nog niet
+30	Marshall Bruce Mathers III
 31	Wat is de echte naam van Ringo Starr?
-X: ['echt', 'naam']
-Y: ['Ringo', 'Starr']
-Antwoord vinden lukt nog niet
+31
 32	Wat is de echte/volledige naam van Fink?
-X: ['echte_volledig', 'naam']
-Y: ['Fink']
 Antwoord vinden lukt nog niet
 33	Wat is de geboortedag van Justin Bieber?
-X: ['geboorte_dag']
-Y: ['Justin', 'Bieber']
 Antwoord vinden lukt nog niet
 34	Wat is de geboortedatum van Anouk?
-X: ['geboortedatum']
-Y: ['Anouk']
 34	1975-04-08
 35	Wat is de geboortedatum van Bach?
-X: ['geboortedatum']
-Y: ['Bach']
 35	1685-03-21
 36	Wat is de geboortedatum van Bob Dylan?
-X: ['geboortedatum']
-Y: ['Bob', 'Dylan']
 36	1941-05-24
 37	Wat is de geboortedatum van Chris Martin?
-X: ['geboortedatum']
-Y: ['Chris', 'Martin']
 37	1977-03-02
 38	Wat is de geboortedatum van Elvis?
-X: ['geboortedatum']
-Y: ['Elvis']
 38	1935-01-08
 39	Wat is de geboortedatum van Enrique Iglesias
-X: ['geboortedatum']
-Y: ['Enrique', 'Iglesias']
 39	1975-05-08
 40	Wat is de geboortedatum van Freddie Mercury?
-X: ['geboortedatum']
-Y: ['Freddie', 'Mercury']
 40	1946-09-05
 41	Wat is de geboortedatum van Herman Brood?
-X: ['geboortedatum']
-Y: ['Herman', 'Brood']
 41	1946-11-05
 42	Wat is de geboortedatum van Jan Smit?
-X: ['geboortedatum']
-Y: ['Jan', 'Smit']
 42	1985-12-31
 43	Wat is de geboortedatum van Jimi Hendrix?
-X: ['geboortedatum']
-Y: ['Jimi', 'Hendrix']
 43	1942-11-27
 44	Wat is de geboortedatum van John Mayer?
-X: ['geboortedatum']
-Y: ['John', 'Mayer']
 44	1977-10-16
 45	Wat is de geboortedatum van Justin Timberlake?
-X: ['geboortedatum']
-Y: ['Justin', 'Timberlake']
 45	1981-01-31
 46	Wat is de geboortedatum van Loud Reed?
-X: ['geboortedatum']
-Y: ['Loud', 'Reed']
+Antwoord vinden lukt nog niet
 47	Wat is de geboortedatum van Maria Mena?
-X: ['geboortedatum']
-Y: ['Maria', 'Mena']
 47	1986-02-19
 48	Wat is de geboortedatum van Otis Redding?
-X: ['geboortedatum']
-Y: ['Otis', 'Redding']
 48	1941-09-09
 49	Wat is de geboortedatum van Pharrell Williams?
-X: ['geboortedatum']
-Y: ['Pharrell', 'Williams']
 49	1973-04-05
 50	Wat is de geboorteplaats van Katy Perry?
-X: ['geboorte_plaats']
-Y: ['Katy', 'Perry']
 Antwoord vinden lukt nog niet
 51	Wat is de geloofsovertuiging van Mozart?
-X: ['geloofsovertuiging']
-Y: ['Mozart']
 51
 52	Wat is de genre van The Kooks?
-X: ['genre']
-Y: ['The', 'Kooks']
 52
 53	Wat is de herkomstplaats van The Beatles?
-X: ['herkomst_plaats']
-Y: ['The', 'Beatles']
 53	http://nl.dbpedia.org/resource/Verenigd_Koninkrijk	http://nl.dbpedia.org/resource/Liverpool
 54	Wat is de herkomst van The Kooks?
-X: ['herkomst']
-Y: ['The', 'Kooks']
 54	http://nl.dbpedia.org/resource/Engeland	http://nl.dbpedia.org/resource/Brighton
 55	Wat is de lengte van Sweet Goodbyes?
-X: ['lengte']
-Y: ['Sweet', 'Goodbyes']
 55	190
 56	Wat is de muziekstijl van Bach?
-X: ['muziek_stijl']
-Y: ['Bach']
 56
 57	Wat is de naam van Bono?
-X: ['naam']
-Y: ['Bono']
 57	Paul David Hewson
 58	Wat is de naam van Bono?
-X: ['naam']
-Y: ['Bono']
 58	Paul David Hewson
 59	Wat is de naam van de zangeres die k3 verliet?
-X: ['naam']
-Y: ['de', 'zangeres']
+Antwoord vinden lukt nog niet
 60	Wat is de naam van van Beethov?
-X: ['naam']
-Y: ['van', 'Beethov']
+Antwoord vinden lukt nog niet
 61	Wat is de officiele website van One Direction?
-X: ['officieel', 'web_site']
-Y: ['One', 'Direction']
 Antwoord vinden lukt nog niet
 62	Wat is de oorsprong van Coldplay?
-X: ['oorsprong']
-Y: ['Coldplay']
 62	http://nl.dbpedia.org/resource/Londen	http://nl.dbpedia.org/resource/Engeland
 63	Wat is de oorsprong van de 'Dire Straits'
-X: ['oorsprong']
-Y: ['de']
 63
 64	Wat is de oorsprong van The Beatles?
-X: ['oorsprong']
-Y: ['The', 'Beatles']
 64	http://nl.dbpedia.org/resource/Verenigd_Koninkrijk	http://nl.dbpedia.org/resource/Liverpool
 65	Wat is de oorsprong van The Beatles?
-X: ['oorsprong']
-Y: ['The', 'Beatles']
 65	http://nl.dbpedia.org/resource/Verenigd_Koninkrijk	http://nl.dbpedia.org/resource/Liverpool
 66	Wat is de oorsprong van The Foo Fighters?
-X: ['oorsprong']
-Y: ['The', 'Foo', 'Fighters']
 66	http://nl.dbpedia.org/resource/Verenigde_Staten	http://nl.dbpedia.org/resource/Seattle	http://nl.dbpedia.org/resource/Washington_(staat)
 67	Wat is de oorsprong van The Who?
-X: ['oorsprong']
-Y: ['The', 'Who']
 67	http://nl.dbpedia.org/resource/Londen	http://nl.dbpedia.org/resource/Engeland	http://nl.dbpedia.org/resource/Shepherd's_Bush_(wijk)
 68	Wat is de oorsprong van Toto?
-X: ['oorsprong']
-Y: ['Toto']
 68	http://nl.dbpedia.org/resource/Verenigde_Staten	http://nl.dbpedia.org/resource/Californië	http://nl.dbpedia.org/resource/Los_Angeles
 69	Wat is de oorzaak van de dood van John Lennon?
-X: ['oorzaak']
-Y: ['John', 'Lennon']
 69	vermoord
 70	Wat is de oprichtingsdatum van Queen?
-X: ['oprichting_datum']
-Y: ['Queen']
 70	1970+01:00
 71	Wat is de platenmaatschappij van Guus Meeuwis
-X: ['plaat_maatschappij']
-Y: ['Guus', 'Meeuwis']
-Antwoord vinden lukt nog niet
+71
 72	Wat is de platenmaatschappij van John Mayer?
-X: ['plaat_maatschappij']
-Y: ['John', 'Mayer']
-Antwoord vinden lukt nog niet
+72
 73	Wat is de releasedatum van Dat ik je mis?
 Dit is geen vraag
-X: []
-Y: []
 Antwoord vinden lukt nog niet
 74	Wat is de religie van Bono?
-X: ['religie']
-Y: ['Bono']
 Antwoord vinden lukt nog niet
 75	Wat is de religie van Mozart?
-X: ['religie']
-Y: ['Mozart']
 Antwoord vinden lukt nog niet
 76	Wat is de startdatum van The Beatles?
-X: ['start_datum']
-Y: ['The', 'Beatles']
-Antwoord vinden lukt nog niet
+76	1960+01:00
 77	Wat is de sterfdag van Freddy Mercury?
-X: ['sterf_dag']
-Y: ['Freddy', 'Mercury']
-Antwoord vinden lukt nog niet
+77	1991-11-24
 78	Wat is de sterfdatum van Amy Winehouse?
-X: ['sterven_datum']
-Y: ['Amy', 'Winehouse']
 Antwoord vinden lukt nog niet
 79	Wat is de sterfdatum van Frank Sinatra?
-X: ['sterven_datum']
-Y: ['Frank', 'Sinatra']
 Antwoord vinden lukt nog niet
 80	Wat is de sterfdatum van Freddie Mercury?
-X: ['sterven_datum']
-Y: ['Freddie', 'Mercury']
 Antwoord vinden lukt nog niet
 81	Wat is de sterfdatum van Herman Brood?
-X: ['sterven_datum']
-Y: ['Herman', 'Brood']
 Antwoord vinden lukt nog niet
 82	Wat is de sterfdatum van Jeff Buckley?
-X: ['sterven_datum']
-Y: ['Jeff', 'Buckley']
 Antwoord vinden lukt nog niet
 83	Wat is de sterfdatum van Kurt Cobain?
-X: ['sterven_datum']
-Y: ['Kurt', 'Cobain']
 Antwoord vinden lukt nog niet
 84	Wat is de stijl van Coldplay
-X: ['stijl']
-Y: ['Coldplay']
 84
 85	Wat is de url van The Stones?
-X: ['url']
-Y: ['The', 'Stones']
-Antwoord vinden lukt nog niet
+85	http://www.rollingstones.com
 86	Wat is de volledige naam van Avril Lavigne?
-X: ['volledig', 'naam']
-Y: ['Avril', 'Lavigne']
-Antwoord vinden lukt nog niet
+86	Avril Ramona Lavigne	Avril Ramona Lavigne
 87	Wat is de volledige naam van Avril Lavigne?
-X: ['volledig', 'naam']
-Y: ['Avril', 'Lavigne']
-Antwoord vinden lukt nog niet
+87	Avril Ramona Lavigne	Avril Ramona Lavigne
 88	Wat is de volledige naam van Dotan?
-X: ['volledig', 'naam']
-Y: ['Dotan']
 Antwoord vinden lukt nog niet
 89	Wat is de volledige naam van Guus Meeuwis?
-X: ['volledig', 'naam']
-Y: ['Guus', 'Meeuwis']
-Antwoord vinden lukt nog niet
+89	Gustaaf Stephanus Modestus Meeuwis
 90	Wat is de volledige naam van Guy Berryman?
-X: ['volledig', 'naam']
-Y: ['Guy', 'Berryman']
-Antwoord vinden lukt nog niet
+90	Guy Rupert Berryman	Guy Rupert Berryman
 91	Wat is de volledige naam van Jan Smit?
-X: ['volledig', 'naam']
-Y: ['Jan', 'Smit']
-Antwoord vinden lukt nog niet
+91	Johannes Hendricus Maria Smit
 92	Wat is de volledige naam van John Fogerty?
-X: ['volledig', 'naam']
-Y: ['John', 'Fogerty']
-Antwoord vinden lukt nog niet
+92	John Cameron Fogerty
 93	Wat is de volledige naam van Paul McCartney
-X: ['volledig', 'naam']
-Y: ['Paul', 'McCartney']
-Antwoord vinden lukt nog niet
+93	James Paul McCartney
 94	Wat is de webite van The Beatles?
-X: ['webite']
-Y: ['The', 'Beatles']
 Antwoord vinden lukt nog niet
 95	Wat is de website van 30 Seconds To Mars?
-X: ['web_site']
-Y: ['30']
 95
 96	Wat is de website van Coldplay?
-X: ['web_site']
-Y: ['Coldplay']
 96	http://www.coldplay.com
 97	Wat is de website van David Bowie ?
-X: ['web_site']
-Y: ['David', 'Bowie']
 97	http://www.davidbowie.com/
 98	Wat is de website van de Red Hot Chili Peppers?
-X: ['web_site']
-Y: ['de']
 98
 99	Wat is de website van Fall Out Boy?
-X: ['web_site']
-Y: ['Fall', 'Out', 'Boy']
 99	http://www.falloutboyrock.com
 100	Wat is de website van Justin Bieber?
-X: ['web_site']
-Y: ['Justin', 'Bieber']
 100	http://www.justinbiebermusic.com/
 101	Wat is de website van Miley Cyrus
-X: ['web_site']
-Y: ['Miley', 'Cyrus']
 101	http://www.mileycyrus.com/
 102	Wat is de website van Nick en Simon?
-X: ['web_site']
-Y: ['Nick', 'en', 'Simon']
 102	http://www.nickensimon.nl/
 103	Wat is de website van Stromae?
-X: ['web_site']
-Y: ['Stromae']
 103	http://www.stromae.net/
 104	Wat is een instrument van Jimmy Hendrix?
-X: ['instrument']
-Y: ['Jimmy', 'Hendrix']
-Antwoord vinden lukt nog niet
+104	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Basgitaar	http://nl.dbpedia.org/resource/Drums	http://nl.dbpedia.org/resource/Zang	http://nl.dbpedia.org/resource/Percussie	http://nl.dbpedia.org/resource/Keyboards
 105	Wat is een samenvatting over The Black Keys?
-X: ['samenvatting']
-Y: ['The', 'Black', 'Keys']
 105	The Black Keys is een Amerikaans bluesrockduo dat in 2001 in Akron (Ohio) door Dan Auerbach (zang en gitaar) en Patrick Carney (drums) werd opgericht. Het duo begon als een onafhankelijke band, die zijn muziek opnam in kelders en de muziek zelf produceerde, voordat ze doorbraken als een van de meest populaire garagerock bands van het tijdperk na 2010. Het rauwe geluid van de band staat duidelijk onder invloed van bluesartiesten als Junior Kimbrough, Howlin' Wolf en Robert Johnson.Auerbach en Carney waren jeugdvrienden alvorens ze The Black Keys oprichtten. Na het vroegtijdig beëindigen van hun studie besloten ze samen muziek te gaan maken. Na het tekenen van een platencontract met  Alive Naturalsound Records brachten ze  in 2002 hun eerste album uit, genaamd The Big Come Up. Dit album leverde ze een nieuwe deal op bij  Fat Possum. In de tien jaar die volgden verwierf The Black Keys in de  undergroundscene een vaste schare fans. Ze toerden veel langs kleine clubs en speelden op veel festivals. Hun derde album Rubber Factory uit 2004 ontving lovende kritieken en gaf een boost aan het imago, wat uiteindelijk leidde tot een nieuw platencontract bij Nonesuch in 2006. Na de eerste vier albums zelf te hebben geproduceerd in geïmproviseerde studio’s, werd in 2008 het album Attack & Release afgerond in een professionele studio, met behulp van producer Danger Mouse.De commerciële doorbraak van de groep vond plaats in 2010, door het album Brothers. Op dit album stond onder anderen de populaire single Tighten Up, die drie Grammy Awards won. Ook het daar op volgende album El Camino kon rekenen op positieve recensies en behaalde nummer twee  in de Billboard 200. Hierop volgde de eerste stadiontour van de band, de El Camino Tour. Het album met de daarop aanwezige hitsingle Lonely Boy won drie Grammy Awards. In 2014 brachten ze hun achtste album uit, Turn Blue genaamd. Dit album werd hun eerste nummer één notatie in de VS en Australië.	The Black Keys is een Amerikaans bluesrockduo dat in 2001 in Akron (Ohio) door Dan Auerbach (zang en gitaar) en Patrick Carney (drums) werd opgericht. Het duo begon als een onafhankelijke band, die zijn muziek opnam in kelders en de muziek zelf produceerde, voordat ze doorbraken als een van de meest populaire garagerock bands van het tijdperk na 2010. Het rauwe geluid van de band staat duidelijk onder invloed van bluesartiesten als Junior Kimbrough, Howlin' Wolf en Robert Johnson.Auerbach en Carney waren jeugdvrienden alvorens ze The Black Keys oprichtten. Na het vroegtijdig beëindigen van hun studie besloten ze samen muziek te gaan maken. Na het tekenen van een platencontract met  Alive Naturalsound Records brachten ze  in 2002 hun eerste album uit, genaamd The Big Come Up. Dit album leverde ze een nieuwe deal op bij  Fat Possum. In de tien jaar die volgden verwierf The Black Keys in de undergroundscene een vaste schare fans. Ze toerden veel langs kleine clubs en speelden op veel festivals. Hun derde album Rubber Factory uit 2004 ontving lovende kritieken en gaf een boost aan het imago, wat uiteindelijk leidde tot een nieuw platencontract bij Nonesuch in 2006. Na de eerste vier albums zelf te hebben geproduceerd in geïmproviseerde studio’s, werd in 2008 het album Attack & Release afgerond in een professionele studio, met behulp van producer Danger Mouse.De commerciële doorbraak van de groep vond plaats in 2010, door het album Brothers. Op dit album stond onder anderen de populaire single Tighten Up, die drie Grammy Awards won. Ook het daar op volgende album El Camino kon rekenen op positieve recensies en behaalde nummer twee  in de Billboard 200. Hierop volgde de eerste stadiontour van de band, de El Camino Tour. Het album met de daarop aanwezige hitsingle Lonely Boy won drie Grammy Awards. In 2014 brachten ze hun achtste album uit, Turn Blue genaamd. Dit album werd hun eerste nummer één notatie in de VS en Australië.
 106	Wat is het beginjaar van Adele
-X: ['begin_jaar']
-Y: ['Adele']
 Antwoord vinden lukt nog niet
 107	Wat is het beginjaar van Muse?
-X: ['begin_jaar']
-Y: ['Muse']
 Antwoord vinden lukt nog niet
 108	Wat is het beginjaar van Norah Jones?
-X: ['begin_jaar']
-Y: ['Norah', 'Jones']
 Antwoord vinden lukt nog niet
 109	Wat is het beroep van Avril Lavigne?
-X: ['beroep']
-Y: ['Avril', 'Lavigne']
 109	http://nl.dbpedia.org/resource/Lijst_van_gitaristen	http://nl.dbpedia.org/resource/Acteur	http://nl.dbpedia.org/resource/Zanger	http://nl.dbpedia.org/resource/Model_(persoon)	http://nl.dbpedia.org/resource/Songwriter
 110	Wat is het beroep van Bono?
-X: ['beroep']
-Y: ['Bono']
 110	http://nl.dbpedia.org/resource/Muzikant	http://nl.dbpedia.org/resource/Singer-songwriter	http://nl.dbpedia.org/resource/Activist	http://nl.dbpedia.org/resource/Filantroop
 111	Wat is het beroep van Bono?
-X: ['beroep']
-Y: ['Bono']
 111	http://nl.dbpedia.org/resource/Muzikant	http://nl.dbpedia.org/resource/Singer-songwriter	http://nl.dbpedia.org/resource/Activist	http://nl.dbpedia.org/resource/Filantroop
 112	Wat is het beroep van Justin Timberlake?
-X: ['beroep']
-Y: ['Justin', 'Timberlake']
 112	http://nl.dbpedia.org/resource/Acteur
 113	Wat is het beroep van Nicki Minaj?
-X: ['beroep']
-Y: ['Nicki', 'Minaj']
 113
 114	Wat is het beroep van Roger Waters?
-X: ['beroep']
-Y: ['Roger', 'Waters']
 114	http://nl.dbpedia.org/resource/Bassist
 115	Wat is het budget van The Million Dollar Hotel?
-X: ['budget']
-Y: ['The', 'Million', 'Dollar', 'Hotel']
-Antwoord vinden lukt nog niet
+115	8000000.0
 116	Wat is het debuutalbum van Boudewijn de Groot?
-X: ['debuut_album']
-Y: ['Boudewijn', 'de', 'Groot']
 Antwoord vinden lukt nog niet
 117	Wat is het geboortejaar van John Lennon?
-X: ['geboorte_jaar']
-Y: ['John', 'Lennon']
 Antwoord vinden lukt nog niet
 118	wat is het geloof van Bono?
-X: ['geloof']
-Y: ['Bono']
 118
 119	Wat is het geloof van Bono?
-X: ['geloof']
-Y: ['Bono']
 119
 120	Wat is het geloof van Bono?
-X: ['geloof']
-Y: ['Bono']
 120
 121	Wat is het genre van Alanis Morissette?
-X: ['genre']
-Y: ['Alanis', 'Morissette']
 121	http://nl.dbpedia.org/resource/Rockmuziek
 122	Wat is het genre van Amy Winehouse?
-X: ['genre']
-Y: ['Amy', 'Winehouse']
 122	http://nl.dbpedia.org/resource/Jazz	http://nl.dbpedia.org/resource/Soul	http://nl.dbpedia.org/resource/Rhythm-and-blues	http://nl.dbpedia.org/resource/Ska_(muziek)
 123	Wat is het genre van Bob Marley?
-X: ['genre']
-Y: ['Bob', 'Marley']
 123	http://nl.dbpedia.org/resource/Reggae	http://nl.dbpedia.org/resource/Rocksteady	http://nl.dbpedia.org/resource/Ska_(muziek)
 124	Wat is het genre van Chuck Berry?
-X: ['genre']
-Y: ['Chuck', 'Berry']
 124	http://nl.dbpedia.org/resource/Rock-'n-roll	http://nl.dbpedia.org/resource/Blues
 125	Wat is het genre van Joan Baez?
-X: ['genre']
-Y: ['Joan', 'Baez']
 125	http://nl.dbpedia.org/resource/Folk
 126	Wat is het genre van Marco Borsato?
-X: ['genre']
-Y: ['Marco', 'Borsato']
 126	http://nl.dbpedia.org/resource/Nederpop	http://nl.dbpedia.org/resource/Popmuziek
 127	Wat is het genre van 'Paloma Blanca'?
-X: ['genre']
-Y: ['Paloma', 'Blanca']
 127
 128	Wat is het genre van Ringo Starr?
-X: ['genre']
-Y: ['Ringo', 'Starr']
 128	http://nl.dbpedia.org/resource/Rock	http://nl.dbpedia.org/resource/Rock-'n-roll	http://nl.dbpedia.org/resource/Popmuziek	http://nl.dbpedia.org/resource/Skiffle
 129	Wat is het genre van Taylor Swift?
-X: ['genre']
-Y: ['Taylor', 'Swift']
 129	http://nl.dbpedia.org/resource/Popmuziek	http://nl.dbpedia.org/resource/Pop_rock	http://nl.dbpedia.org/resource/Country_music	http://nl.dbpedia.org/resource/Country_pop
 130	Wat is het genre van The Red Hot Chilli Peppers?
-X: ['genre']
-Y: ['The', 'Red', 'Hot', 'Chilli', 'Peppers']
+Antwoord vinden lukt nog niet
 131	Wat is het genre van The Rolling Stones?
-X: ['genre']
-Y: ['The', 'Rolling', 'Stones']
 131
 132	Wat is het genre van Tom Waits?
-X: ['genre']
-Y: ['Tom', 'Waits']
 132	http://nl.dbpedia.org/resource/Rock	http://nl.dbpedia.org/resource/Experimentele_muziek
 133	Wat is het genre van U2?
-X: ['genre']
-Y: ['U2']
 133
 134	Wat is het instrument van Keith Moon?
-X: ['instrument']
-Y: ['Keith', 'Moon']
-Antwoord vinden lukt nog niet
+134	http://nl.dbpedia.org/resource/Drums	http://nl.dbpedia.org/resource/Percussie
 135	Wat is het instrument van Phil Collins?
-X: ['instrument']
-Y: ['Phil', 'Collins']
-Antwoord vinden lukt nog niet
+135	http://nl.dbpedia.org/resource/Trompet	http://nl.dbpedia.org/resource/Slaginstrument	http://nl.dbpedia.org/resource/Piano_(instrument)	http://nl.dbpedia.org/resource/Zanger	http://nl.dbpedia.org/resource/Drumstel
 136	Wat is het instrument van Ringo Starr?
-X: ['instrument']
-Y: ['Ringo', 'Starr']
-Antwoord vinden lukt nog niet
+136	http://nl.dbpedia.org/resource/Zangkunst	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Trekzak	http://nl.dbpedia.org/resource/Slaginstrument	http://nl.dbpedia.org/resource/Piano_(instrument)	http://nl.dbpedia.org/resource/Drumstel	http://nl.dbpedia.org/resource/Orgel
 137	Wat is het instrument van Wibi Soerjadi?
-X: ['instrument']
-Y: ['Wibi', 'Soerjadi']
-Antwoord vinden lukt nog niet
+137	http://nl.dbpedia.org/resource/Piano_(instrument)
 138	Wat is het invoerjaar van het Wilhelmus?
-X: ['invoer_jaar']
-Y: ['het', 'Wilhelmus']
 Antwoord vinden lukt nog niet
 139	Wat is het label van Chris Martin?
-X: ['label']
-Y: ['Chris', 'Martin']
 139
 140	Wat is het label van Ed Sheeran?
-X: ['label']
-Y: ['Ed', 'Sheeran']
+Antwoord vinden lukt nog niet
 141	Wat is het label van Opgezwolle?
-X: ['label']
-Y: ['Opgezwolle']
 141	http://nl.dbpedia.org/resource/TopNotch
 142	Wat is het label van Steve Lukather?
-X: ['label']
-Y: ['Steve', 'Lukather']
 142
 143	Wat is het label van The Black Keys?
-X: ['label']
-Y: ['The', 'Black', 'Keys']
 143	http://nl.dbpedia.org/resource/V2_Records
 144	Wat is het land van Johnny Cash?
-X: ['land']
-Y: ['Johnny', 'Cash']
 144	http://nl.dbpedia.org/resource/Verenigde_Staten
 145	Wat is het land van oorsprong van The Beatles?
-X: ['land']
-Y: ['The', 'Beatles']
 145
 146	Wat is het langste album van Pink Floyd?
-X: ['lang', 'album']
-Y: ['Pink', 'Floyd']
-Antwoord vinden lukt nog niet
+146	http://nl.dbpedia.org/resource/Time_(Pink_Floyd)
 147	Wat is het platenlabel van Chris Brown?
-X: ['plaat_label']
-Y: ['Chris', 'Brown']
 147
 148	Wat is het platenlabel van Maroon 5?
-X: ['plaat_label']
-Y: ['Maroon', '5']
 148	http://nl.dbpedia.org/resource/Sony_BMG_Music_Entertainment	http://nl.dbpedia.org/resource/Octone_Records
 149	Wat is het startjaar van De Dijk (band)?
-X: ['start_jaar']
-Y: ['band']
 Antwoord vinden lukt nog niet
 150	Wat is het startjaar van Rammstein?
-X: ['start_jaar']
-Y: ['Rammstein']
 Antwoord vinden lukt nog niet
 151	Wat is het sterfjaar van Herman Brood?
-X: ['sterven_jaar']
-Y: ['Herman', 'Brood']
 Antwoord vinden lukt nog niet
 152	Wat is het vak van Janine Jansen?
-X: ['vak']
-Y: ['Janine', 'Jansen']
 Antwoord vinden lukt nog niet
 153	Wat was de bijnaam van Amy Winehouse?
-X: ['bijnaam']
-Y: ['Amy', 'Winehouse']
 153	Queen of soul
 154	Wat was de bijnaam van Amy Winehouse?
-X: ['bijnaam']
-Y: ['Amy', 'Winehouse']
 154	Queen of soul
 155	Wat was de bijnaam van Britney Spears?
-X: ['bijnaam']
-Y: ['Britney', 'Spears']
 155	Princess of Pop	Princess of Pop
 156	Wat was het album van Clocks?
-X: ['album']
-Y: ['Clocks']
 156	http://nl.dbpedia.org/resource/A_Rush_of_Blood_to_the_Head	http://nl.dbpedia.org/resource/Rhythms_del_Mundo
 157	Wat zijn de albums van Creedence Clearwater Revival?
-X: ['album']
-Y: ['Creedence', 'Clearwater', 'Revival']
 157
 158	Wat zijn de albums van Linkin Park?
-X: ['album']
-Y: ['Linkin', 'Park']
 158
 159	Wat zijn de albums van U2?
-X: ['album']
-Y: ['U2']
 159
 160	Wat zijn de beroepen van Brian May?
-X: ['beroep']
-Y: ['Brian', 'May']
 160	http://nl.dbpedia.org/resource/Auteur	http://nl.dbpedia.org/resource/Muzikant	http://nl.dbpedia.org/resource/Muziekproducent	http://nl.dbpedia.org/resource/Songwriter	http://nl.dbpedia.org/resource/Astronoom
 161	Wat zijn de bijnamen van Michael Jackson?
-X: ['bijnaam']
-Y: ['Michael', 'Jackson']
 161
 162	Wat zijn de functies van Coldplay
-X: ['functie']
-Y: ['Coldplay']
 Antwoord vinden lukt nog niet
 163	Wat zijn de genres van Andre Hazes?
-X: ['genre']
-Y: ['Andre', 'Hazes']
 163	http://nl.dbpedia.org/resource/Nederpop	http://nl.dbpedia.org/resource/Levenslied
 164	Wat zijn de genres van Linkin Park?
-X: ['genre']
-Y: ['Linkin', 'Park']
 164
 165	Wat zijn de genres van Pink Floyd?
-X: ['genre']
-Y: ['Pink', 'Floyd']
 165
 166	Wat zijn de instrumenten van Adele
-X: ['instrument']
-Y: ['Adele']
-Antwoord vinden lukt nog niet
+166
 167	Wat zijn de instrumenten van Avril Lavigne?
-X: ['instrument']
-Y: ['Avril', 'Lavigne']
-Antwoord vinden lukt nog niet
+167	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Piano_(instrument)	http://nl.dbpedia.org/resource/Drumstel
 168	Wat zijn de instrumenten van Avril Lavigne?
-X: ['instrument']
-Y: ['Avril', 'Lavigne']
-Antwoord vinden lukt nog niet
+168	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Piano_(instrument)	http://nl.dbpedia.org/resource/Drumstel
 169	Wat zijn de instrumenten van Billy Joel?
-X: ['instrument']
-Y: ['Billy', 'Joel']
-Antwoord vinden lukt nog niet
+169	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Mondharmonica	http://nl.dbpedia.org/resource/Accordeon	http://nl.dbpedia.org/resource/Piano_(instrument)	http://nl.dbpedia.org/resource/Keyboard
 170	Wat zijn de instrumenten van Bono?
-X: ['instrument']
-Y: ['Bono']
-Antwoord vinden lukt nog niet
+170	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Mondharmonica	http://nl.dbpedia.org/resource/Zang
 171	Wat zijn de instrumenten van Paul McCartney?
-X: ['instrument']
-Y: ['Paul', 'McCartney']
-Antwoord vinden lukt nog niet
+171	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Basgitaar	http://nl.dbpedia.org/resource/Mandoline_(instrument)	http://nl.dbpedia.org/resource/Piano_(instrument)	http://nl.dbpedia.org/resource/Drumstel	http://nl.dbpedia.org/resource/Epiphone	http://nl.dbpedia.org/resource/Gibson_Les_Paul
 172	Wat zijn de instrumenten van Yann Tiersen?
-X: ['instrument']
-Y: ['Yann', 'Tiersen']
-Antwoord vinden lukt nog niet
+172
 173	Wat zijn de leden van Maroon 5?
-X: ['lid']
-Y: ['Maroon', '5']
 173	http://nl.dbpedia.org/resource/Adam_Levine	http://nl.dbpedia.org/resource/James_Valentine	http://nl.dbpedia.org/resource/Jesse_Carmichael	http://nl.dbpedia.org/resource/Matt_Flynn	http://nl.dbpedia.org/resource/Mickey_Madden	http://nl.dbpedia.org/resource/P.J._Morton
 174	Wat zijn de liedjes van Queen
-X: ['lied']
-Y: ['Queen']
 Antwoord vinden lukt nog niet
 175	Wat zijn de muziekinstrumenten van Justin Timberlake?
-X: ['muziek_instrument']
-Y: ['Justin', 'Timberlake']
 Antwoord vinden lukt nog niet
 176	Wat zijn de muziekstijlen van John Coltrane?
-X: ['muziek_stijl']
-Y: ['John', 'Coltrane']
 176	http://nl.dbpedia.org/resource/Jazz	http://nl.dbpedia.org/resource/Free_jazz	http://nl.dbpedia.org/resource/Hard_bop	http://nl.dbpedia.org/resource/Modale_jazz	http://nl.dbpedia.org/resource/Bebop	http://nl.dbpedia.org/resource/Avant-gardejazz
 177	Wat zijn de namen van Guus Meeuwis
-X: ['naam']
-Y: ['Guus', 'Meeuwis']
 177	Gustaaf Stephanus Modestus Meeuwis
 178	Wat zijn de platenmaatschappijen van de David Guetta?
-X: ['plaat_maatschappij']
-Y: ['de']
-Antwoord vinden lukt nog niet
+178
 179	Wat zijn de platenmaatschappijen van U2?
-X: ['plaat_maatschappij']
-Y: ['U2']
-Antwoord vinden lukt nog niet
+179	http://nl.dbpedia.org/resource/Columbia_Records	http://nl.dbpedia.org/resource/Island_Records	http://nl.dbpedia.org/resource/Mercury_Records
 180	Wat zijn de rollen van The Rolling Stones?
-X: ['rol']
-Y: ['The', 'Rolling', 'Stones']
 Antwoord vinden lukt nog niet
 181	Wat zijn de roots van de Who?
-X: ['roots']
-Y: ['de', 'Who']
 Antwoord vinden lukt nog niet
 182	Wat zijn de voormalige leden van Metallica
-X: ['voormalig', 'lid']
-Y: ['Metallica']
 Antwoord vinden lukt nog niet
 183	Welk bandlid van Maroon 5 speelt in de film Begin Again?
-X: ['band_lid', 'van', 'spelen', 'in', 'film']
-Y: []
 Antwoord vinden lukt nog niet
 184	Welke albums zijn van Amon Tobin?
-X: ['album', 'zijn', 'van']
-Y: []
+Antwoord vinden lukt nog niet
 185	Welke artisten brachten samen het nummer Rampeneren uit?
-X: ['artisten', 'uit_brengen', 'nummer']
-Y: []
 Antwoord vinden lukt nog niet
 186	Welke genres worden toegeschreven aan de muziek van Muse?
 Dit is geen vraag
-X: []
-Y: []
 Antwoord vinden lukt nog niet
 187	Welke instrumenten bespeelt Avril Lavigne?
-X: ['instrument', 'bespelen']
-Y: ['Avril', 'Lavigne']
-Antwoord vinden lukt nog niet
+187	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Piano_(instrument)	http://nl.dbpedia.org/resource/Drumstel
 188	Welke instrumenten speelt Ringo Starr?
-X: ['instrument', 'spelen']
-Y: ['Ringo', 'Starr']
 Antwoord vinden lukt nog niet
 189	Welk genre speelde Johnny Cash?
-X: ['genre', 'spelen']
-Y: []
 Antwoord vinden lukt nog niet
 190	'Wie is beinvloed door Jimmy Hendriks?
 Dit is geen vraag
-X: []
-Y: []
 Antwoord vinden lukt nog niet
 191	Wie is de artiest van Hocus Pocus (lied)?
-X: ['artiest']
-Y: ['lied']
 191
 192	Wie is de artiest van Nevermind?
-X: ['artiest']
-Y: ['Nevermind']
 192	http://nl.dbpedia.org/resource/Nirvana_(Amerikaanse_band)
 193	Wie is de artiest van Stairway to Heaven?
-X: ['artiest']
-Y: ['Stairway', 'to', 'Heaven']
 193	http://nl.dbpedia.org/resource/Led_Zeppelin
 194	Wie is de artiest van The Wall?
-X: ['artiest']
-Y: ['The', 'Wall']
 194	http://nl.dbpedia.org/resource/Pink_Floyd
 195	Wie is de manager van Queen?
-X: ['manager']
-Y: ['Queen']
 Antwoord vinden lukt nog niet
 196	Wie is de manager van U2?
-X: ['manager']
-Y: ['U2']
 Antwoord vinden lukt nog niet
 197	Wie is de partner van Johnny Cash?
-X: ['partner']
-Y: ['Johnny', 'Cash']
 197	http://nl.dbpedia.org/resource/June_Carter_Cash
 198	Wie is de producer van Escapology?
-X: ['producer']
-Y: ['Escapology']
 Antwoord vinden lukt nog niet
 199	Wie is de schrijver van The Scientist?
-X: ['schrijver']
-Y: ['The', 'Scientist']
 199	http://nl.dbpedia.org/resource/Coldplay
 200	Wie is de zanger van It Was a Very Good Year?
-X: ['zanger']
-Y: ['It', 'Was', 'a', 'Very', 'Good', 'Year']
 Antwoord vinden lukt nog niet
 201	Wie is het record label van Deep Purple?
-X: ['record', 'label']
-Y: ['Deep', 'Purple']
 Antwoord vinden lukt nog niet
 202	Wie maakte het album El Camino?
-X: ['maken']
-Y: ['El', 'Camino']
 Antwoord vinden lukt nog niet
 203	Wie waren de bandleden van The Rolling Stones?
-X: ['band_lid']
-Y: ['The', 'Rolling', 'Stones']
 Antwoord vinden lukt nog niet
 204	Wie waren de bandleden van U2?
-X: ['band_lid']
-Y: ['U2']
 Antwoord vinden lukt nog niet
 205	Wie was de band van I want it all?
-X: ['band']
-Y: ['I', 'want', 'it', 'all']
 Antwoord vinden lukt nog niet
 206	Wie was de schrijver van Smooth Criminal?
-X: ['schrijver']
-Y: ['Smooth', 'Criminal']
 206	http://nl.dbpedia.org/resource/Michael_Jackson
 207	Wie was de vrouw van Johnny Cash
-X: ['vrouw']
-Y: ['Johnny', 'Cash']
 Antwoord vinden lukt nog niet
 208	Wie zijn de bandleden van Coldplay?
-X: ['band_lid']
-Y: ['Coldplay']
 Antwoord vinden lukt nog niet
 209	Wie zijn de bandleden van Coldplay?
-X: ['band_lid']
-Y: ['Coldplay']
 Antwoord vinden lukt nog niet
 210	Wie zijn de groepsleden van de Eagles?
-X: ['groep_lid']
-Y: ['de', 'Eagles']
 Antwoord vinden lukt nog niet
 211	Wie zijn de kinderen van Rudi Carrell?
-X: ['kind']
-Y: ['Rudi', 'Carrell']
 211	Carolien, Annemieke en Alexander
 212	Wie zijn de leden van Coldplay
-X: ['lid']
-Y: ['Coldplay']
 212	http://nl.dbpedia.org/resource/Chris_Martin	http://nl.dbpedia.org/resource/Will_Champion	http://nl.dbpedia.org/resource/Guy_Berryman	http://nl.dbpedia.org/resource/Jonny_Buckland
 213	Wie zijn de leden van Coldplay?
-X: ['lid']
-Y: ['Coldplay']
 213	http://nl.dbpedia.org/resource/Chris_Martin	http://nl.dbpedia.org/resource/Will_Champion	http://nl.dbpedia.org/resource/Guy_Berryman	http://nl.dbpedia.org/resource/Jonny_Buckland
 214	Wie zijn de leden van Counting Crows?
-X: ['lid']
-Y: ['Counting', 'Crows']
 214	http://nl.dbpedia.org/resource/Adam_Duritz	http://nl.dbpedia.org/resource/David_Bryson	http://nl.dbpedia.org/resource/Charles_Gillingham	http://nl.dbpedia.org/resource/David_Immerglück	http://nl.dbpedia.org/resource/Jim_Bogios	http://nl.dbpedia.org/resource/Dan_Vickrey
 215	Wie zijn de leden van de Eagles?
-X: ['lid']
-Y: ['de', 'Eagles']
+Antwoord vinden lukt nog niet
 216	Wie zijn de leden van Fleetwood Mac?
-X: ['lid']
-Y: ['Fleetwood', 'Mac']
 216
 217	Wie zijn de leden van Green Day?
-X: ['lid']
-Y: ['Green', 'Day']
 217	http://nl.dbpedia.org/resource/Michael_Pritchard	http://nl.dbpedia.org/resource/Tré_Cool	http://nl.dbpedia.org/resource/Billie_Joe_Armstrong	http://nl.dbpedia.org/resource/Jason_White
 218	Wie zijn de leden van K3?
-X: ['lid']
-Y: ['K3']
 218	http://nl.dbpedia.org/resource/Karen_Damen	http://nl.dbpedia.org/resource/Kristel_Verbeke	http://nl.dbpedia.org/resource/Josje_Huisman
 219	Wie zijn de leden van Orbital?
-X: ['lid']
-Y: ['Orbital']
 219	http://nl.dbpedia.org/resource/Phil_Hartnoll	http://nl.dbpedia.org/resource/Paul_Hartnoll
 220	Wie zijn de leden van The Beatles?
-X: ['lid']
-Y: ['The', 'Beatles']
 220	http://nl.dbpedia.org/resource/George_Harrison	http://nl.dbpedia.org/resource/Paul_McCartney	http://nl.dbpedia.org/resource/Ringo_Starr	http://nl.dbpedia.org/resource/John_Lennon
 221	Wie zijn de leden van The Beatles?
-X: ['lid']
-Y: ['The', 'Beatles']
 221	http://nl.dbpedia.org/resource/George_Harrison	http://nl.dbpedia.org/resource/Paul_McCartney	http://nl.dbpedia.org/resource/Ringo_Starr	http://nl.dbpedia.org/resource/John_Lennon
 222	Wie zijn de leden van The Beatles?
-X: ['lid']
-Y: ['The', 'Beatles']
 222	http://nl.dbpedia.org/resource/George_Harrison	http://nl.dbpedia.org/resource/Paul_McCartney	http://nl.dbpedia.org/resource/Ringo_Starr	http://nl.dbpedia.org/resource/John_Lennon
 223	Wie zijn de leden van 'The Golden Earring'?
-X: ['lid']
-Y: ['The', 'Golden', 'Earring']
 223	http://nl.dbpedia.org/resource/Cesar_Zuiderwijk	http://nl.dbpedia.org/resource/Rinus_Gerritsen	http://nl.dbpedia.org/resource/Barry_Hay	http://nl.dbpedia.org/resource/George_Kooymans
 224	Wie zijn de oudleden van Metallica?
-X: ['oud_lid']
-Y: ['Metallica']
 Antwoord vinden lukt nog niet
 225	Wie zijn de sukkels van The Who?
-X: ['sukkel']
-Y: ['The', 'Who']
 Antwoord vinden lukt nog niet
 226	Wie zijn de voormalige bandleden van The Beatles?
-X: ['voormalig', 'band_lid']
-Y: ['The', 'Beatles']
 Antwoord vinden lukt nog niet
 227	Wie zijn de voormalige leden van BZN?
-X: ['voormalig', 'lid']
-Y: ['BZN']
 Antwoord vinden lukt nog niet
 228	Wie zijn lid geweest van Queen?
-X: ['zijn']
-Y: []
 Antwoord vinden lukt nog niet
 229	Wie zijn lid van de band Queen?
-X: []
-Y: []
 Antwoord vinden lukt nog niet
 230	Wie zijn lid van de Rolling Stones?
-X: []
-Y: []
 Antwoord vinden lukt nog niet
 231	Wie zijn lid van The Black Eyed Peas?
-X: ['zijn']
-Y: ['The', 'Black', 'Eyed', 'Peas']
 Antwoord vinden lukt nog niet
 232	Wie zijn oudleden van Genesis?
-X: ['oud_lid']
-Y: ['Genesis']
 Antwoord vinden lukt nog niet
-Aantal vragen:		233
-Aantal antwoorden:		121
+Aantal vragen:		232
+Aantal antwoorden:		152
 Aantal x uit de vraag:		226
-Aantal eigenschappen gevonden:		129
+Aantal eigenschappen gevonden:		161
 Aantal y uit de vraag:		221
-Aantal pagina's gevonden:		121
+Aantal pagina's gevonden:		152
