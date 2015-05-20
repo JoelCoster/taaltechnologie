@@ -52,8 +52,12 @@ def getProperty(inputString):
                   'muziek_stijl': "prop-nl:genre",
                   'herkomst_plaats' : "dbpedia-owl:origin",
                   'herkomst' : "dbpedia-owl:origin",
-                  
-                  
+                  'web_site': "foaf:homepage",
+                  'doodsoorzaak' : "prop-nl:oorzaakDood",
+                  'oorzaak' : "prop-nl:oorzaakDood",
+                  'oprichting_datum' : "dbpedia-owl:activeYearsStartYear",
+                  'platenmaatschappij' : "dbpedia-owl:parentOrganisation",
+                  'geloof': "prop-nl:religie",
                   }
 
     try:
