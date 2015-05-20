@@ -40,6 +40,7 @@ for line in sys.stdin:
 
             node = xml.xpath('//node[@rel="whd" and @lemma]')
             if node:
+
                 for child in node:
                     print("",end="")
 
@@ -89,8 +90,63 @@ for line in sys.stdin:
                                 if node:
                                     for child in node:
                                         y.append(child.attrib["lemma"])
-    
+
+                else:
+                    node = xml.xpath('//node[@rel="obj1"]/node["@lemma" and @rel="mwp"]')
+                    if node:
+                        for child in node:
+                            y.append(child.attrib["lemma"])
+
+                        node = xml.xpath('//node[@rel="vc"]/node[@rel="hd" and @lemma]')
+                        if node:
+                            for child in node:
+                                x.append(child.attrib["lemma"])
+
+                        else:
+                            node = xml.xpath('//node[@rel="body"]/node[@rel="hd" and @lemma]')
+                            if node:
+                                for child in node:
+                                    x.append(child.attrib["lemma"])
+                    else:
+                        node = xml.xpath('//node[@rel="obj1"]/node[@rel="app"]/node[@rel="mwp" and @lemma]')
+                        if node:
+                            for child in node:
+                                y.append(child.attrib["lemma"])
+
+                            node = xml.xpath('//node[@rel="body"]/node[@rel="vc"]/node[@rel="hd" and @lemma]')
+                            if node:
+                                for child in node:
+                                    x.append(child.attrib["lemma"])
+                            else:
+                                node = xml.xpath('//node[@rel="body"]/node[@rel="hd" and @lemma]')
+                                if node:
+                                    for child in node:
+                                        x.append(child.attrib["lemma"])
+
+                        else:
+                            node = xml.xpath('//node[@rel="body"]/node[@rel="obj1" and @lemma]')
+                            if node:
+                                for child in node:
+                                    y.append(child.attrib["lemma"])
+
+                                node = xml.xpath('//node[@rel="body"]/node[@rel="hd" and @lemma]')
+                                if node:
+                                    for child in node:
+                                        x.append(child.attrib["lemma"])
+                            else:
+                                node = xml.xpath('//node[@rel="body"]/node[@rel="vc"]/node[@rel="hd" and @lemma]')
+                                if node:
+                                    for child in node:
+                                        x.append(child.attrib["lemma"])
+                                        
+                                    node = xml.xpath('//node[@rel="body"]/node[@rel="vc"]/node[@rel="obj1" and @lemma]')
+                                    if node:
+                                        for child in node:
+                                            y.append(child.attrib["lemma"])
+
+                                
             else:
+                
                 node = xml.xpath('//node[@cat="np" and @rel="whd"]/node[@cat="ap"]/node[@lemma]')
                 if node:
                     
@@ -114,21 +170,46 @@ for line in sys.stdin:
                                     y.append(child.attrib["lemma"])
 
                 else:
-                    node = xml.xpath('//node[@rel="hd" and @lemma and not(@rel="det")]')
+
+                    node = xml.xpath('//node[@rel="body"]/node[@rel="vc"]/node[@rel="hd" and @lemma]')
                     if node:
                         for child in node:
                             x.append(child.attrib["lemma"])
 
-                        node = xml.xpath('//node[@rel="su"]/node[@lemma]')
+                        node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@rel="app"]/node[@lemma]')
                         if node:
                             for child in node:
                                 y.append(child.attrib["lemma"])
-                                
+
                         else:
-                            node = xml.xpath('//node[@rel="su" and @lemma]')
+                            node = xml.xpath('//node[@rel="body"]/node[@rel="su"]/node[@rel="app" and @lemma]')
                             if node:
                                 for child in node:
                                     y.append(child.attrib["lemma"])
+
+                            else:
+                                node = xml.xpath('//node[@rel="body"]/node[@rel="su" and @lemma]')
+                                if node:
+                                    for child in node:
+                                        y.append(child.attrib["lemma"])
+
+                        
+                    else:
+                        node = xml.xpath('//node[@rel="hd" and @lemma and not(@rel="det")]')
+                        if node:
+                            for child in node:
+                                x.append(child.attrib["lemma"])
+
+                            node = xml.xpath('//node[@rel="su"]/node[@lemma]')
+                            if node:
+                                for child in node:
+                                    y.append(child.attrib["lemma"])
+                                    
+                            else:
+                                node = xml.xpath('//node[@rel="su" and @lemma]')
+                                if node:
+                                    for child in node:
+                                        y.append(child.attrib["lemma"])
                             
         else:
             print("Dit is een andere vraagzin")
@@ -137,7 +218,7 @@ for line in sys.stdin:
         print("Dit is geen vraag")
 
     prop = []
-    blacklist = ["zijn","in","jaar","van","op"]
+    blacklist = ["zijn","in","jaar","van","op","door"]
     
     for word in x:
         if word in blacklist: pass
@@ -145,6 +226,9 @@ for line in sys.stdin:
             prop.append(word)
 
     property = getProperty(prop)
+
+    print("Prop:" +str(prop))
+    print("Y: "+str(y))
 
     if property != "":
 
@@ -162,6 +246,5 @@ for line in sys.stdin:
             print()
         
     else:
-        print("Prop:" +str(prop))
-        print("Y: "+str(y))
+        print("Antwoord vinden lukt nog niet")
         

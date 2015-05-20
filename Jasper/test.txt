@@ -1,15 +1,1 @@
-1	In welke bands speelde Tim Knol?				
-2	In welk jaar begon Imagine Dragons?				
-3	In welk jaar bracht Marco Borsato de single Rood uit?				
-5	Op welk album van de band Coldplay staat The Scientist?				
-4	Wie schreef het album Songs of Innocence?
-5	Wat is de echte naam van Jett Rebel?
-6	Wie zijn de leden van U2?
-7	Hoe veel leden hebben The Beatles?
-8	Hoe veel leden heeft U2?
-9	Wat is het kortste nummer van “Songs of Innocence”?
-10	Wie zijn de leden van de Beatles?
-11	Op welke datum is U2 opgericht?
-12	Wie schreef “Gold Digger”?
-13	Wie heeft Gold Digger geschreven?
-14	Door wie is Gold Digger geschreven?
+14	Door wie is het nummer Fireworks bedacht?
