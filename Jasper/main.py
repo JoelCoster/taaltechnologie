@@ -27,6 +27,12 @@ for line in sys.stdin:
     
     [id,question] = line.rstrip().split("\t")
 
+    # Gebiedende wijs "Geef de.." "Noem de..."
+    qList = question.split(" ")
+    gebiedendeWijs = ["geef","noem"]
+    if qList[0].lower() in gebiedendeWijs:
+        qList[0] = "Wat is
+
     xml = alpino_parse(question)
 
     print(id+"\t"+question)
