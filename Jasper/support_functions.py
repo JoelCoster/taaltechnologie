@@ -26,7 +26,20 @@ def getProperty(inputString):
                   'leden': "dbpedia-owl:bandMember",
                   'lid': "dbpedia-owl:bandMember",
                   'artiest': "dbpedia-owl:artist",
-                  'schrijver': "dbpedia-owl:musicalArtist"}
+                  'schrijver': "dbpedia-owl:musicalArtist",
+                  'plaat_label' : "dbpedia-owl:parentOrganisation",
+                  'uit_brengen' : "dbpedia-owl:releaseDate",
+                  'verliet' : "dbpedia-owl:formerBandMember",
+                  'spelen' = "dbpedia-owl:bandMember",
+                  'oorsprong' = "dbpedia-owl:origin",
+                  'overlijden' = "dbpedia-owl:deathDate",
+                  'abstract' = "dbpedia-owl:abstract",
+                  'samenvatting' = "dbpedia-owl:abstract",
+                  'bezetting': "dbpedia-owl:bandMember",
+                  'bezigheid' : "dbpedia-owl:occupation",
+                  'beroep' : "dbpedia-owl:occupation"
+   
+                  }
 
     try:
         found = properties[inputString.lower().strip()]
