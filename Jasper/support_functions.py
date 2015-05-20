@@ -96,6 +96,12 @@ def getProperty(inputString):
                   'plaat' : "dbpedia-owl:Single",
                   'album' : "dbpedia-owl:Album",
                   'cd' : "dbpedia-owl:Album"
+                  'platenlabel' : "dbpedia-owl:parentOrganisation",
+                  'start_jaar' : "dbpedia-owl:activeYearsStartYear",
+                  'sterven_jaar' : "dbpedia-owl:deathDate",
+                  'manager' : "prop-nl:manager",
+                  'agent' : "prop-nl:manager",
+                  'oud_lid' : "dbpedia-owl:formerBandMember"
                   }
 
     try:
