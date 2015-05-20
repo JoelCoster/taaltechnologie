@@ -14,6 +14,13 @@ from lxml import etree
 from support_functions import *
 from SPARQLWrapper import SPARQLWrapper, JSON
 
+count = 1
+answer = 0
+foundx = 0
+foundProp = 0
+foundy = 0
+foundPage = 0
+
 for line in sys.stdin:
 
     # hoe veel
@@ -26,12 +33,6 @@ for line in sys.stdin:
     y = []
     
     [id,question] = line.rstrip().split("\t")
-
-    # Gebiedende wijs "Geef de.." "Noem de..."
-    qList = question.split(" ")
-    gebiedendeWijs = ["geef","noem"]
-    if qList[0].lower() in gebiedendeWijs:
-        qList[0] = "Wat is
 
     xml = alpino_parse(question)
 
@@ -223,6 +224,12 @@ for line in sys.stdin:
     else:
         print("Dit is geen vraag")
 
+    if len(x) > 0:
+        foundx += 1
+
+    if len(y) > 0:
+        foundy += 1
+
     prop = []
     blacklist = ["zijn","in","jaar","van","op","door"]
     
@@ -233,18 +240,21 @@ for line in sys.stdin:
 
     property = getProperty(prop)
 
-    print("Prop:" +str(prop))
-    print("Y: "+str(y))
-
     if property != "":
+
+        foundProp += 1
 
         page = searchPage(y)
 
         if str(page) != "None":
 
+            foundPage +=1
+
             query = makeQuery(property,page,mod)
 
             results = answerQuestion(query)
+            if results:
+                answer += 1
             print(id,end="")
             for result in results["results"]["bindings"]:
                 for arg in result:
@@ -253,4 +263,12 @@ for line in sys.stdin:
         
     else:
         print("Antwoord vinden lukt nog niet")
-        
+
+    count += 1
+
+print("Aantal vragen:\t\t"+str(count))
+print("Aantal antwoorden:\t\t"+str(answer))
+print("Aantal x uit de vraag:\t\t"+str(foundx))
+print("Aantal eigenschappen gevonden:\t\t"+str(foundProp))
+print("Aantal y uit de vraag:\t\t"+str(foundy))
+print("Aantal pagina's gevonden:\t\t"+str(foundPage))
