@@ -1,0 +1,50 @@
+1
+2	2015-05-14
+3	http://nl.dbpedia.org/resource/Chicago
+4	Judith Katrijntje Oosterhuis
+5	Elvis Aaron Presley
+6	The Voice, Ol' Blue Eyes, The Golden Voice
+7	http://nl.dbpedia.org/resource/Agnetha_Fältskog	http://nl.dbpedia.org/resource/Anni-Frid_Lyngstad	http://nl.dbpedia.org/resource/Björn_Ulvaeus	http://nl.dbpedia.org/resource/Benny_Andersson
+8	
+9	
+10	
+11	
+12	http://nl.dbpedia.org/resource/Trijntje_Oosterhuis
+13	http://nl.dbpedia.org/resource/Dichter	http://nl.dbpedia.org/resource/Singer-songwriter
+14	
+15	
+16	
+17	http://nl.dbpedia.org/resource/Grunge
+18
+19	http://www.pauldeleeuw.nl/
+20	219
+21	
+22	
+23	Dick van Berkum
+24	
+25	
+26	
+27	
+28	
+29	
+30	
+31
+32	http://nl.dbpedia.org/resource/Viool	http://nl.dbpedia.org/resource/Gitaar	http://nl.dbpedia.org/resource/Basgitaar	http://nl.dbpedia.org/resource/Mondharmonica	http://nl.dbpedia.org/resource/Mandoline_(instrument)	http://nl.dbpedia.org/resource/Ukelele	http://nl.dbpedia.org/resource/Sitar	http://nl.dbpedia.org/resource/Sarod	http://nl.dbpedia.org/resource/Fender_Telecaster	http://nl.dbpedia.org/resource/Fender_Stratocaster	http://nl.dbpedia.org/resource/Keyboard	http://nl.dbpedia.org/resource/Tanpura	http://nl.dbpedia.org/resource/Gretsch	http://nl.dbpedia.org/resource/Gibson_Les_Paul	http://nl.dbpedia.org/resource/Swarmandal
+33
+34
+35
+36	
+37	Elvis Aaron Presley
+38	Sub Pop	DGC Records
+39	
+40	
+41	
+42
+43	
+44	
+45	http://nl.dbpedia.org/resource/The_Platinum_Collection
+46	
+47	
+48
+49	
+50	

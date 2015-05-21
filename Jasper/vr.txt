@@ -1,0 +1,50 @@
+1	Wat is de geboortedatum van Nick Cave?
+2	Wanneer overleed B.B. King?
+3	Wat is de geboorteplaats van Quincy Jones?
+4	Wat is de echte naam van Trijntje Oosterhuis?
+5	Wat is de volledige naam van Elvis Presley?
+6	Wat zijn de bijnamen van Frank Sinatra?
+7	Wie zijn de leden van ABBA?
+8	Noem de leden van Nirvana.
+9	Wie zijn lid geweest van de band Total Touch?
+10	Hoeveel leden heeft The Common Linnets?
+11	Op welk album verscheen het nummer 'Saturday Night'?
+12	Wie is de artiest van het album 'Wrecks we adore'?
+13	Wat was het beroep van Ede Staal?
+14	Wie is de drummer van Foo Fighters?
+15	Welk instrument speelt Ibrahim Maalouf?
+16	In welk jaar verscheen Nevermind?
+17	Wat is het genre van Nevermind?
+18	Wie is de schrijver van Smells Like Teen Spirit?
+19	Wat is de website van Paul de Leeuw?
+20	Wat is de lengte van Come as You Are?
+21	Op welk label verschijnt de muziek van Trijntje Oosterhuis?
+22	Wie won het Eurovisiesongfestival 1980?
+23	Wie is de manager van Normaal?
+24	Sinds wanneer is Normaal actief?
+25	Welke zanger is bekend als Conchita Wurst?
+26	Tot welke genres wordt The Who gerekend?
+27	Welke nummers heeft John Lennon geschreven?
+28	Hoeveel genres speelden The Beatles?
+29	Hoe lang duurt het album The Wall van Pink Floyd in totaal?
+30	Wie is de bassist van de Rolling Stones?
+31	Hoeveel albums heeft Kanye West uitgebracht?
+32	Welke instrumenten bespeelt George Harrison?
+33	In welk jaar is Dire Straits opgericht?
+34	Welke singles heeft Boudewijn de Groot uitgebracht?
+35	Wanneer overleed Roy Orbinson?
+36	In welk jaar trad Doe Maar voor het eerst op?
+37	Wat is de volledige naam van Elvis Presley?
+38	Hoeveel albums heeft Nirvana uitgebracht?
+39	Wie was de gitarist van Nirvana?
+40	Geef de geboortedatum van Michael Jackson
+41	Welke zanger had de bijnaam "The Man in Black"
+42	Wie zijn de leden van de Rolling Stones?
+43	Wie is de zanger van The Clash?
+44	Waar komt Marco Borsato vandaan?
+45	Wat is het langste nummer van Queen?
+46	Hoeveel leden hebben The Black Eyed Peas?
+47	Wanneer is Coldplay opgericht?
+48	Welke instrumenten bespeelt David Bowie?
+49	In welke band speelt Eddie Vedder?
+50	Bij welke recordlabels zitten The White Stripes
